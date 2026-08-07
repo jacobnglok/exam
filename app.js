@@ -1,7 +1,6 @@
 (() => {
   // Prefer repaired file first, then fallback
   const DATA_CANDIDATES = [
-    "./data/questions.fixed.json",
     "./data/questions.json"
   ];
 
