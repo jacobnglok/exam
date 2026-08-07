@@ -499,6 +499,9028 @@
         { "text": "屯門公路", "correct": false },
         { "text": "東區走廊", "correct": false }
       ]
+    },
+    {
+  "questions": [
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "的士及網約車綜合筆試包括哪兩個部分？",
+      "options": [
+        {
+          "text": "的士營運及車輛維修",
+          "correct": false
+        },
+        {
+          "text": "的士及網約車營運、道路使用者守則",
+          "correct": true
+        },
+        {
+          "text": "顧客服務及英文會話",
+          "correct": false
+        },
+        {
+          "text": "地理知識及急救知識",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "《的士及網約車營運小冊子》主要涵蓋綜合筆試的哪一部分？",
+      "options": [
+        {
+          "text": "道路使用者守則",
+          "correct": false
+        },
+        {
+          "text": "的士及網約車營運",
+          "correct": true
+        },
+        {
+          "text": "車輛機械維修",
+          "correct": false
+        },
+        {
+          "text": "駕駛實習",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "的士牌照可由誰持有？",
+      "options": [
+        {
+          "text": "只可由公司持有",
+          "correct": false
+        },
+        {
+          "text": "只可由個人持有",
+          "correct": false
+        },
+        {
+          "text": "可由個人或公司持有",
+          "correct": true
+        },
+        {
+          "text": "只可由政府部門持有",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "的士牌照分為多少類？",
+      "options": [
+        {
+          "text": "2 類",
+          "correct": false
+        },
+        {
+          "text": "3 類",
+          "correct": true
+        },
+        {
+          "text": "4 類",
+          "correct": false
+        },
+        {
+          "text": "5 類",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "下列哪一項不是的士牌照類別？",
+      "options": [
+        {
+          "text": "市區的士",
+          "correct": false
+        },
+        {
+          "text": "新界的士",
+          "correct": false
+        },
+        {
+          "text": "大嶼山的士",
+          "correct": false
+        },
+        {
+          "text": "機場的士",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "的士車隊牌照持牌人必須是：",
+      "options": [
+        {
+          "text": "香港註冊公司",
+          "correct": true
+        },
+        {
+          "text": "個人的士司機",
+          "correct": false
+        },
+        {
+          "text": "海外公司",
+          "correct": false
+        },
+        {
+          "text": "乘客組織",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "的士車隊牌照是否會取代現有的士牌照？",
+      "options": [
+        {
+          "text": "會",
+          "correct": false
+        },
+        {
+          "text": "不會",
+          "correct": true
+        },
+        {
+          "text": "只會取代市區的士牌照",
+          "correct": false
+        },
+        {
+          "text": "只會取代新界的士牌照",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "的士車隊制度的主要目的之一是：",
+      "options": [
+        {
+          "text": "減少的士數目",
+          "correct": false
+        },
+        {
+          "text": "鼓勵專業車隊管理和提高服務質素",
+          "correct": true
+        },
+        {
+          "text": "取消所有個人的士牌照",
+          "correct": false
+        },
+        {
+          "text": "只准車隊的士接載遊客",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "每輛一般的士車身左右兩旁須標明：",
+      "options": [
+        {
+          "text": "“PRIVATE CAR",
+          "correct": false
+        },
+        {
+          "text": "“BUS",
+          "correct": false
+        },
+        {
+          "text": "“的士”和“TAXI",
+          "correct": true
+        },
+        {
+          "text": "“RIDE HAILING",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "的士車頭及車尾須展示綠底白字字牌，用以顯示：",
+      "options": [
+        {
+          "text": "車主姓名",
+          "correct": false
+        },
+        {
+          "text": "司機電話",
+          "correct": false
+        },
+        {
+          "text": "法定座位數目",
+          "correct": true
+        },
+        {
+          "text": "車費折扣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "車隊的士須在車輛前方擋風玻璃展示：",
+      "options": [
+        {
+          "text": "網約車車輛證明書",
+          "correct": false
+        },
+        {
+          "text": "車隊的士證明書",
+          "correct": true
+        },
+        {
+          "text": "私家車登記證",
+          "correct": false
+        },
+        {
+          "text": "行李收費表",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "車隊的士識別牌的底色主要對應：",
+      "options": [
+        {
+          "text": "司機年資",
+          "correct": false
+        },
+        {
+          "text": "車隊公司名稱",
+          "correct": false
+        },
+        {
+          "text": "許可營運地區範圍",
+          "correct": true
+        },
+        {
+          "text": "車費高低",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "網約車車輛證明書的主要作用是：",
+      "options": [
+        {
+          "text": "代替車牌",
+          "correct": false
+        },
+        {
+          "text": "讓執法人員及市民識別有關車輛",
+          "correct": true
+        },
+        {
+          "text": "代替保險文件",
+          "correct": false
+        },
+        {
+          "text": "顯示車費",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "網約車在私人用途時展示車輛證明書是否違法？",
+      "options": [
+        {
+          "text": "違法",
+          "correct": false
+        },
+        {
+          "text": "不屬違法",
+          "correct": true
+        },
+        {
+          "text": "只在晚上違法",
+          "correct": false
+        },
+        {
+          "text": "只在新界違法",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "網約車不得在哪些地方提供網約車載客服務？",
+      "options": [
+        {
+          "text": "非限制區",
+          "correct": false
+        },
+        {
+          "text": "一般停車灣",
+          "correct": false
+        },
+        {
+          "text": "封閉道路、限制區或禁區",
+          "correct": true
+        },
+        {
+          "text": "私家車可合法停車的地方",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "持牌平台可否自訂網約車車費？",
+      "options": [
+        {
+          "text": "可以，但須於行程開始前讓乘客知悉收費安排",
+          "correct": true
+        },
+        {
+          "text": "不可以，必須用的士錶",
+          "correct": false
+        },
+        {
+          "text": "可以，但不須通知乘客",
+          "correct": false
+        },
+        {
+          "text": "只可由司機即場決定",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "的士「包車」收費可以基於：",
+      "options": [
+        {
+          "text": "只按乘客年齡",
+          "correct": false
+        },
+        {
+          "text": "的士被租用的時間或協議條款",
+          "correct": true
+        },
+        {
+          "text": "司機心情",
+          "correct": false
+        },
+        {
+          "text": "天氣情況",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "的士司機可就電子繳費媒介作出甚麼選擇？",
+      "options": [
+        {
+          "text": "可按營運需要選擇提供的電子繳費媒介",
+          "correct": true
+        },
+        {
+          "text": "必須只提供信用卡",
+          "correct": false
+        },
+        {
+          "text": "必須只提供八達通",
+          "correct": false
+        },
+        {
+          "text": "不可選擇任何電子付款方式",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "乘客透過網約渠道召喚的士後，通常可如何取得電子收據？",
+      "options": [
+        {
+          "text": "到警署索取",
+          "correct": false
+        },
+        {
+          "text": "透過手機應用程式內的行程紀錄下載",
+          "correct": true
+        },
+        {
+          "text": "向其他乘客索取",
+          "correct": false
+        },
+        {
+          "text": "等待郵寄",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運模式及法例",
+      "q": "網約車司機在開始營運前及營運期間，可能須按平台要求進行甚麼程序？ ________________________________________",
+      "options": [
+        {
+          "text": "人臉辨識等身分確認程序",
+          "correct": true
+        },
+        {
+          "text": "英文考試",
+          "correct": false
+        },
+        {
+          "text": "醫療檢查",
+          "correct": false
+        },
+        {
+          "text": "體能測試",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "行車前檢查輪胎時，胎面坑紋深度至少須有：",
+      "options": [
+        {
+          "text": "0.5 毫米",
+          "correct": false
+        },
+        {
+          "text": "1 毫米以上",
+          "correct": true
+        },
+        {
+          "text": "2 厘米",
+          "correct": false
+        },
+        {
+          "text": "5 厘米",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "行車前檢查車輛時，司機應確保：",
+      "options": [
+        {
+          "text": "車窗玻璃沒有破裂",
+          "correct": true
+        },
+        {
+          "text": "後視鏡可以鬆脫",
+          "correct": false
+        },
+        {
+          "text": "車燈不需要運作",
+          "correct": false
+        },
+        {
+          "text": "輪胎可有外物依附",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "出發前，司機應確保車輛沒有超載，因為超載會影響：",
+      "options": [
+        {
+          "text": "車身顏色",
+          "correct": false
+        },
+        {
+          "text": "汽車掣動效能及操控",
+          "correct": true
+        },
+        {
+          "text": "收音機音量",
+          "correct": false
+        },
+        {
+          "text": "車牌號碼",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "出發前，司機應確保自己及每位乘客：",
+      "options": [
+        {
+          "text": "正確佩戴安全帶",
+          "correct": true
+        },
+        {
+          "text": "不佩戴安全帶",
+          "correct": false
+        },
+        {
+          "text": "只在高速公路佩戴安全帶",
+          "correct": false
+        },
+        {
+          "text": "只在晚上佩戴安全帶",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "駕駛時，司機應特別注意「盲點」，以防：",
+      "options": [
+        {
+          "text": "車費增加",
+          "correct": false
+        },
+        {
+          "text": "發生意外",
+          "correct": true
+        },
+        {
+          "text": "車輛耗油增加",
+          "correct": false
+        },
+        {
+          "text": "車牌被遮擋",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "開車及倒車前，司機應使用倒後鏡或其他監視器，並：",
+      "options": [
+        {
+          "text": "回頭作最後察看",
+          "correct": true
+        },
+        {
+          "text": "立即加速",
+          "correct": false
+        },
+        {
+          "text": "關掉所有燈號",
+          "correct": false
+        },
+        {
+          "text": "不需觀察四周",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "遇上中途壞車或緊急事故，司機應立即：",
+      "options": [
+        {
+          "text": "亮起危險警告燈",
+          "correct": true
+        },
+        {
+          "text": "關掉所有燈",
+          "correct": false
+        },
+        {
+          "text": "棄車離開",
+          "correct": false
+        },
+        {
+          "text": "要乘客留在行車道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "若車輛在路上壞車，如有可能，應把車輛：",
+      "options": [
+        {
+          "text": "停在行車線中央",
+          "correct": false
+        },
+        {
+          "text": "駛離行車道",
+          "correct": true
+        },
+        {
+          "text": "停在斑馬線上",
+          "correct": false
+        },
+        {
+          "text": "停在巴士站正中",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "如不肯定自己及乘客可安全離開行車道，應該：",
+      "options": [
+        {
+          "text": "不應離開車輛，並繼續扣上安全帶",
+          "correct": true
+        },
+        {
+          "text": "立即落車站在車尾",
+          "correct": false
+        },
+        {
+          "text": "叫乘客站在車頭",
+          "correct": false
+        },
+        {
+          "text": "在行車道等候救援",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "司機打開車門前，必須確保車輛已完全停下並：",
+      "options": [
+        {
+          "text": "拉緊手掣",
+          "correct": true
+        },
+        {
+          "text": "加速",
+          "correct": false
+        },
+        {
+          "text": "關掉所有車窗",
+          "correct": false
+        },
+        {
+          "text": "打開行李箱",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "關閉車門前，司機應先：",
+      "options": [
+        {
+          "text": "察看車廂，確保乘客已安全上下車",
+          "correct": true
+        },
+        {
+          "text": "立即開車",
+          "correct": false
+        },
+        {
+          "text": "收起所有安全帶",
+          "correct": false
+        },
+        {
+          "text": "調高音樂聲量",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "的士司機應否確保乘客沒有遺漏隨身物品於車廂？",
+      "options": [
+        {
+          "text": "應該",
+          "correct": true
+        },
+        {
+          "text": "不需要",
+          "correct": false
+        },
+        {
+          "text": "只限夜間",
+          "correct": false
+        },
+        {
+          "text": "只限長途車程",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "私家車兒童束縛設備規定是否適用於的士？",
+      "options": [
+        {
+          "text": "適用",
+          "correct": false
+        },
+        {
+          "text": "不適用",
+          "correct": true
+        },
+        {
+          "text": "只適用於市區的士",
+          "correct": false
+        },
+        {
+          "text": "只適用於車隊的士",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "如的士乘客座位已裝設安全帶，乘客必須：",
+      "options": [
+        {
+          "text": "佩戴安全帶",
+          "correct": true
+        },
+        {
+          "text": "拆除安全帶",
+          "correct": false
+        },
+        {
+          "text": "只在下雨時佩戴",
+          "correct": false
+        },
+        {
+          "text": "只在過海時佩戴",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "車輛移動時，司機不得如何使用流動電訊裝置？",
+      "options": [
+        {
+          "text": "以手持或夾在頭及肩膀間的方式使用",
+          "correct": true
+        },
+        {
+          "text": "放在合法支架上",
+          "correct": false
+        },
+        {
+          "text": "完全不觸碰",
+          "correct": false
+        },
+        {
+          "text": "關掉屏幕",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全及司機責任",
+      "q": "司機駕駛時如因操控流動電訊裝置而影響駕駛，可能觸犯： ________________________________________",
+      "options": [
+        {
+          "text": "危險駕駛或不小心駕駛",
+          "correct": true
+        },
+        {
+          "text": "只屬民事責任",
+          "correct": false
+        },
+        {
+          "text": "停車違例",
+          "correct": false
+        },
+        {
+          "text": "行李收費違例",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "司機在駕駛前應避免：",
+      "options": [
+        {
+          "text": "充分休息",
+          "correct": false
+        },
+        {
+          "text": "飲用酒精飲品或服用可能影響駕駛的藥物",
+          "correct": true
+        },
+        {
+          "text": "檢查車輛",
+          "correct": false
+        },
+        {
+          "text": "調校座位",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "如司機身體不適，應：",
+      "options": [
+        {
+          "text": "盡早求醫，並向醫生查詢藥物副作用",
+          "correct": true
+        },
+        {
+          "text": "繼續駕駛直至收工",
+          "correct": false
+        },
+        {
+          "text": "自行加大藥量",
+          "correct": false
+        },
+        {
+          "text": "完全不理會",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "如駕駛時感到疲倦，情況許可下應：",
+      "options": [
+        {
+          "text": "找合適泊車位停車休息",
+          "correct": true
+        },
+        {
+          "text": "在快速公路停車睡覺",
+          "correct": false
+        },
+        {
+          "text": "加速完成行程",
+          "correct": false
+        },
+        {
+          "text": "關掉車窗",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "長時間駕駛可能導致：",
+      "options": [
+        {
+          "text": "工作壓力和精神緊張",
+          "correct": true
+        },
+        {
+          "text": "車費自動增加",
+          "correct": false
+        },
+        {
+          "text": "車輛免維修",
+          "correct": false
+        },
+        {
+          "text": "乘客人數增加",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "司機面對乘客投訴時應：",
+      "options": [
+        {
+          "text": "保持冷靜並耐心聆聽",
+          "correct": true
+        },
+        {
+          "text": "立即與乘客爭吵",
+          "correct": false
+        },
+        {
+          "text": "拒絕繼續溝通",
+          "correct": false
+        },
+        {
+          "text": "要乘客落車",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "司機是否可因乘客的國籍、種族、性別、年齡或身體狀況而作出不禮貌或拒載行為？",
+      "options": [
+        {
+          "text": "可以",
+          "correct": false
+        },
+        {
+          "text": "不可以",
+          "correct": true
+        },
+        {
+          "text": "只限繁忙時間可以",
+          "correct": false
+        },
+        {
+          "text": "只限短途可以",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "司機應如何對待有特殊需要的乘客？",
+      "options": [
+        {
+          "text": "保持耐心，照顧及協助",
+          "correct": true
+        },
+        {
+          "text": "一律拒載",
+          "correct": false
+        },
+        {
+          "text": "要他們自行搬運所有物品",
+          "correct": false
+        },
+        {
+          "text": "不需要理會",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "的士不得運載甚麼貨物？",
+      "options": [
+        {
+          "text": "個人手提行李",
+          "correct": false
+        },
+        {
+          "text": "危險或厭惡性質的貨物",
+          "correct": true
+        },
+        {
+          "text": "已牢固包裝的輕便行李",
+          "correct": false
+        },
+        {
+          "text": "傷殘人士的拐杖",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "一般而言，放在乘客車廂內的輕便個人手提行李，如每件長、闊、高總和不超過多少，可免費運載？",
+      "options": [
+        {
+          "text": "100 厘米",
+          "correct": false
+        },
+        {
+          "text": "120 厘米",
+          "correct": false
+        },
+        {
+          "text": "140 厘米",
+          "correct": true
+        },
+        {
+          "text": "180 厘米",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "的士司機可就放在哪裏的每件行李收取行李附加費？",
+      "options": [
+        {
+          "text": "車尾行李廂內",
+          "correct": true
+        },
+        {
+          "text": "乘客手上",
+          "correct": false
+        },
+        {
+          "text": "乘客膝上",
+          "correct": false
+        },
+        {
+          "text": "司機座位旁",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "傷殘人士攜帶的輪椅、拐杖或輔助行動物件，在的士上：",
+      "options": [
+        {
+          "text": "不論大小及擺放位置均可免費運載",
+          "correct": true
+        },
+        {
+          "text": "必須收雙倍行李費",
+          "correct": false
+        },
+        {
+          "text": "不可運載",
+          "correct": false
+        },
+        {
+          "text": "只可放車尾箱並收費",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "的士運載動物或雀鳥的附帶條件由誰酌情決定？",
+      "options": [
+        {
+          "text": "的士司機",
+          "correct": true
+        },
+        {
+          "text": "乘客",
+          "correct": false
+        },
+        {
+          "text": "平台",
+          "correct": false
+        },
+        {
+          "text": "警方",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "若乘客攜帶的動物或雀鳥造成的士損壞，誰應負責賠償？",
+      "options": [
+        {
+          "text": "獲准攜帶該動物或雀鳥上車的人士",
+          "correct": true
+        },
+        {
+          "text": "的士車主必須自行承擔",
+          "correct": false
+        },
+        {
+          "text": "政府",
+          "correct": false
+        },
+        {
+          "text": "下一位乘客",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：職業健康、服務及運載規定",
+      "q": "網約車可否攜帶動物或雀鳥上車，主要由誰決定？ ________________________________________",
+      "options": [
+        {
+          "text": "個別持牌平台",
+          "correct": true
+        },
+        {
+          "text": "的士站職員",
+          "correct": false
+        },
+        {
+          "text": "交通燈",
+          "correct": false
+        },
+        {
+          "text": "乘客單方面決定",
+          "correct": false
+        },
+        {
+  "questions": [
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "《的士及網約車營運小冊子》由哪一天起生效？",
+      "options": [
+        {
+          "text": "2026 年 4 月 1 日",
+          "correct": false
+        },
+        {
+          "text": "2026 年 8 月 3 日",
+          "correct": true
+        },
+        {
+          "text": "2025 年 8 月 3 日",
+          "correct": false
+        },
+        {
+          "text": "2024 年 4 月 1 日",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "此小冊子的法律效力是：",
+      "options": [
+        {
+          "text": "具有法律效力",
+          "correct": false
+        },
+        {
+          "text": "只適用於的士車主",
+          "correct": false
+        },
+        {
+          "text": "只作參考用途，並無法律效力",
+          "correct": true
+        },
+        {
+          "text": "可代替道路交通條例",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "的士牌照持有人即為：",
+      "options": [
+        {
+          "text": "的士乘客",
+          "correct": false
+        },
+        {
+          "text": "的士登記車主",
+          "correct": true
+        },
+        {
+          "text": "的士站管理人",
+          "correct": false
+        },
+        {
+          "text": "網約車平台",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "下列哪一項屬於的士行業主要組成部分？",
+      "options": [
+        {
+          "text": "租車司機",
+          "correct": true
+        },
+        {
+          "text": "巴士站職員",
+          "correct": false
+        },
+        {
+          "text": "渡輪船長",
+          "correct": false
+        },
+        {
+          "text": "鐵路車長",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "「車主司機」是指：",
+      "options": [
+        {
+          "text": "只租車不駕駛的人",
+          "correct": false
+        },
+        {
+          "text": "身兼車主與司機的人",
+          "correct": true
+        },
+        {
+          "text": "只負責平台派單的人",
+          "correct": false
+        },
+        {
+          "text": "只負責修理的士的人",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "的士車隊牌照持牌人必須遵守：",
+      "options": [
+        {
+          "text": "只需遵守公司內部規則",
+          "correct": false
+        },
+        {
+          "text": "相關法例和的士車隊牌照條件",
+          "correct": true
+        },
+        {
+          "text": "乘客自行訂立的規則",
+          "correct": false
+        },
+        {
+          "text": "酒店管理規則",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "車隊的士車身及標記設計須獲誰批准？",
+      "options": [
+        {
+          "text": "警務處",
+          "correct": false
+        },
+        {
+          "text": "運輸署",
+          "correct": true
+        },
+        {
+          "text": "乘客",
+          "correct": false
+        },
+        {
+          "text": "保險公司",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "的士車隊識別牌須展示於車身的：",
+      "options": [
+        {
+          "text": "車頂中央",
+          "correct": false
+        },
+        {
+          "text": "前方及後方位置",
+          "correct": true
+        },
+        {
+          "text": "左邊車門內側",
+          "correct": false
+        },
+        {
+          "text": "行李廂內",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "市區車隊的士識別牌底色是：",
+      "options": [
+        {
+          "text": "紅色",
+          "correct": true
+        },
+        {
+          "text": "綠色",
+          "correct": false
+        },
+        {
+          "text": "藍色",
+          "correct": false
+        },
+        {
+          "text": "黑色",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "新界車隊的士識別牌底色是：",
+      "options": [
+        {
+          "text": "紅色",
+          "correct": false
+        },
+        {
+          "text": "綠色",
+          "correct": true
+        },
+        {
+          "text": "藍色",
+          "correct": false
+        },
+        {
+          "text": "黃色",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "大嶼山車隊的士識別牌底色是：",
+      "options": [
+        {
+          "text": "紅色",
+          "correct": false
+        },
+        {
+          "text": "綠色",
+          "correct": false
+        },
+        {
+          "text": "藍色",
+          "correct": true
+        },
+        {
+          "text": "白色",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "網約車本質上屬於：",
+      "options": [
+        {
+          "text": "的士",
+          "correct": false
+        },
+        {
+          "text": "私家車",
+          "correct": true
+        },
+        {
+          "text": "公共小巴",
+          "correct": false
+        },
+        {
+          "text": "貨車",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "網約車提供服務時，司機必須持有：",
+      "options": [
+        {
+          "text": "網約車車輛駕駛許可證",
+          "correct": true
+        },
+        {
+          "text": "巴士駕駛執照",
+          "correct": false
+        },
+        {
+          "text": "貨車司機證",
+          "correct": false
+        },
+        {
+          "text": "的士車隊牌照",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "網約車服務須透過甚麼預約？",
+      "options": [
+        {
+          "text": "非持牌社交平台",
+          "correct": false
+        },
+        {
+          "text": "領有有效網約車服務牌照的平台",
+          "correct": true
+        },
+        {
+          "text": "街頭議價",
+          "correct": false
+        },
+        {
+          "text": "的士站職員安排",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "的士可否透過網約渠道接受乘客訂單？",
+      "options": [
+        {
+          "text": "可以",
+          "correct": true
+        },
+        {
+          "text": "不可以",
+          "correct": false
+        },
+        {
+          "text": "只限大嶼山的士",
+          "correct": false
+        },
+        {
+          "text": "只限新界的士",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "署長可指定某些的士站為：",
+      "options": [
+        {
+          "text": "貨車站",
+          "correct": false
+        },
+        {
+          "text": "過海的士站",
+          "correct": true
+        },
+        {
+          "text": "校巴站",
+          "correct": false
+        },
+        {
+          "text": "電單車站",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "車隊的士停車處主要供甚麼乘客上車？",
+      "options": [
+        {
+          "text": "街上隨機截乘的乘客",
+          "correct": false
+        },
+        {
+          "text": "已就預定行程租用車隊的士的乘客",
+          "correct": true
+        },
+        {
+          "text": "只攜帶貨物的乘客",
+          "correct": false
+        },
+        {
+          "text": "只乘搭免費車程的乘客",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "下列哪個地方可能設有車隊的士停車處？",
+      "options": [
+        {
+          "text": "香港迪士尼樂園",
+          "correct": true
+        },
+        {
+          "text": "私人住宅停車場內任何位置",
+          "correct": false
+        },
+        {
+          "text": "行人天橋",
+          "correct": false
+        },
+        {
+          "text": "快速公路路肩",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "網約車只可在哪些地方上落客？",
+      "options": [
+        {
+          "text": "封閉道路",
+          "correct": false
+        },
+        {
+          "text": "限制區",
+          "correct": false
+        },
+        {
+          "text": "非限制區及一般停車灣",
+          "correct": true
+        },
+        {
+          "text": "禁區",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "網約車不得在下列哪類地方提供載客服務？",
+      "options": [
+        {
+          "text": "一般停車灣",
+          "correct": false
+        },
+        {
+          "text": "封閉道路、限制區或禁區",
+          "correct": true
+        },
+        {
+          "text": "非限制區",
+          "correct": false
+        },
+        {
+          "text": "私家車可合法停車位置",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "一般的士街頭截乘行程，車費應按：",
+      "options": [
+        {
+          "text": "司機口頭報價",
+          "correct": false
+        },
+        {
+          "text": "的士計程錶及法定收費率",
+          "correct": true
+        },
+        {
+          "text": "乘客自願付款",
+          "correct": false
+        },
+        {
+          "text": "平台任意加價",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "車隊的士在街頭截乘行程的收費應：",
+      "options": [
+        {
+          "text": "與一般的士一樣按法定收費表",
+          "correct": true
+        },
+        {
+          "text": "完全由司機自訂",
+          "correct": false
+        },
+        {
+          "text": "一律免費",
+          "correct": false
+        },
+        {
+          "text": "只收預約費",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "持牌平台就網約車自訂車費時，須：",
+      "options": [
+        {
+          "text": "行程完成後才通知乘客",
+          "correct": false
+        },
+        {
+          "text": "行程開始前讓乘客知悉收費安排",
+          "correct": true
+        },
+        {
+          "text": "不需要通知乘客",
+          "correct": false
+        },
+        {
+          "text": "只通知司機",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "的士收據打印設備故障時，司機應使用：",
+      "options": [
+        {
+          "text": "口頭承諾",
+          "correct": false
+        },
+        {
+          "text": "預印表格手寫收據",
+          "correct": true
+        },
+        {
+          "text": "手機短訊代替所有收據",
+          "correct": false
+        },
+        {
+          "text": "不需要發出收據",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "的士司機在提供服務時必須展示：",
+      "options": [
+        {
+          "text": "的士司機證",
+          "correct": true
+        },
+        {
+          "text": "乘客名單",
+          "correct": false
+        },
+        {
+          "text": "車主銀行戶口",
+          "correct": false
+        },
+        {
+          "text": "保養紀錄",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "網約車平台確認乘客訂單時，須向乘客提供司機的：",
+      "options": [
+        {
+          "text": "照片和相關資料",
+          "correct": true
+        },
+        {
+          "text": "家庭住址",
+          "correct": false
+        },
+        {
+          "text": "醫療紀錄",
+          "correct": false
+        },
+        {
+          "text": "銀行密碼",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "如的士司機因的士司機違例記分制度被取消駕駛的士資格，在該期間：",
+      "options": [
+        {
+          "text": "仍可申請網約車車輛駕駛許可證",
+          "correct": false
+        },
+        {
+          "text": "不符合申請網約車車輛駕駛許可證的資格",
+          "correct": true
+        },
+        {
+          "text": "可自動取得網約車許可證",
+          "correct": false
+        },
+        {
+          "text": "可免除所有記分",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "如持有網約車車輛駕駛許可證人士的私家車正式駕駛執照被取消，其網約車車輛駕駛許可證會：",
+      "options": [
+        {
+          "text": "即予取消",
+          "correct": true
+        },
+        {
+          "text": "自動延長",
+          "correct": false
+        },
+        {
+          "text": "變成的士駕駛執照",
+          "correct": false
+        },
+        {
+          "text": "不受影響",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "的士行車紀錄系統包括下列哪項功能？",
+      "options": [
+        {
+          "text": "車廂攝錄機、行車記錄儀及全球衞星導航系統",
+          "correct": true
+        },
+        {
+          "text": "售票機",
+          "correct": false
+        },
+        {
+          "text": "電視娛樂系統",
+          "correct": false
+        },
+        {
+          "text": "自動煮食設備",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及安全",
+      "q": "的士車廂攝錄機錄影時，車內須： ________________________________________",
+      "options": [
+        {
+          "text": "在當眼處張貼清晰告示",
+          "correct": true
+        },
+        {
+          "text": "不可通知乘客",
+          "correct": false
+        },
+        {
+          "text": "只通知司機",
+          "correct": false
+        },
+        {
+          "text": "只在晚上張貼告示",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：的士司機違例記分制度",
+      "q": "下列哪項屬於 10 分罪行？",
+      "options": [
+        {
+          "text": "濫收車費",
+          "correct": true
+        },
+        {
+          "text": "拒絕發出收據",
+          "correct": false
+        },
+        {
+          "text": "沒有將計程錶設定於記錄位置",
+          "correct": false
+        },
+        {
+          "text": "拒絕運載租用人要求數目的乘客",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：的士司機違例記分制度",
+      "q": "下列哪項屬於 10 分罪行？",
+      "options": [
+        {
+          "text": "毀損、損壞或更改的士計程錶",
+          "correct": true
+        },
+        {
+          "text": "沒有洗車",
+          "correct": false
+        },
+        {
+          "text": "車廂溫度太低",
+          "correct": false
+        },
+        {
+          "text": "沒有播放音樂",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：的士司機違例記分制度",
+      "q": "下列哪項屬於 5 分罪行？",
+      "options": [
+        {
+          "text": "兜客",
+          "correct": true
+        },
+        {
+          "text": "濫收車費",
+          "correct": false
+        },
+        {
+          "text": "拒絕發出收據",
+          "correct": false
+        },
+        {
+          "text": "沒有將計程錶設定於記錄位置",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：的士司機違例記分制度",
+      "q": "「兜路」在記分制度中即是：",
+      "options": [
+        {
+          "text": "沒有採用最直接而切實可行的路線駛往目的地",
+          "correct": true
+        },
+        {
+          "text": "車速太慢",
+          "correct": false
+        },
+        {
+          "text": "行李太多",
+          "correct": false
+        },
+        {
+          "text": "乘客沒有付款",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：的士司機違例記分制度",
+      "q": "「釣泥鯭」是指：",
+      "options": [
+        {
+          "text": "未經租用人同意，允許租用人以外的人登上的士",
+          "correct": true
+        },
+        {
+          "text": "拒絕發出收據",
+          "correct": false
+        },
+        {
+          "text": "更改車身顏色",
+          "correct": false
+        },
+        {
+          "text": "的士沒有開冷氣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：的士司機違例記分制度",
+      "q": "下列哪項屬於 3 分罪行？",
+      "options": [
+        {
+          "text": "拒絕或忽略發出收據",
+          "correct": true
+        },
+        {
+          "text": "濫收車費",
+          "correct": false
+        },
+        {
+          "text": "兜客",
+          "correct": false
+        },
+        {
+          "text": "毀損計程錶",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：的士司機違例記分制度",
+      "q": "下列哪項屬於 3 分罪行？",
+      "options": [
+        {
+          "text": "沒有將的士計程錶設定於記錄位置",
+          "correct": true
+        },
+        {
+          "text": "兜路",
+          "correct": false
+        },
+        {
+          "text": "釣泥鯭",
+          "correct": false
+        },
+        {
+          "text": "濫收車費",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：的士司機違例記分制度",
+      "q": "的士司機在任何兩年期間被記 8 分或以上但少於 15 分，運輸署署長會發出：",
+      "options": [
+        {
+          "text": "的士司機違例記分提示",
+          "correct": true
+        },
+        {
+          "text": "即時終身停牌通知",
+          "correct": false
+        },
+        {
+          "text": "免費車隊牌照",
+          "correct": false
+        },
+        {
+          "text": "網約車平台登入碼",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：的士司機違例記分制度",
+      "q": "的士司機被記 10 分或以上，須在通知日期起計多久內完成的士服務改進課程？",
+      "options": [
+        {
+          "text": "1 個月內",
+          "correct": false
+        },
+        {
+          "text": "2 個月內",
+          "correct": false
+        },
+        {
+          "text": "3 個月內",
+          "correct": true
+        },
+        {
+          "text": "12 個月內",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：的士司機違例記分制度",
+      "q": "無合理辯解而沒有在限期內完成的士服務改進課程，一經定罪，最高可處： ________________________________________",
+      "options": [
+        {
+          "text": "第 2 級罰款及監禁 1 個月",
+          "correct": true
+        },
+        {
+          "text": "只口頭警告",
+          "correct": false
+        },
+        {
+          "text": "免費重考",
+          "correct": false
+        },
+        {
+          "text": "取消所有車費",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "伊利沙伯醫院位於：",
+      "options": [
+        {
+          "text": "油麻地",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "黃竹坑",
+          "correct": false
+        },
+        {
+          "text": "柴灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "律敦治醫院位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": true
+        },
+        {
+          "text": "上環",
+          "correct": false
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        },
+        {
+          "text": "屯門",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "東區尤德夫人那打素醫院位於：",
+      "options": [
+        {
+          "text": "柴灣",
+          "correct": true
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "九龍塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "北大嶼山醫院位於：",
+      "options": [
+        {
+          "text": "松仁路",
+          "correct": true
+        },
+        {
+          "text": "青松觀路",
+          "correct": false
+        },
+        {
+          "text": "全安路",
+          "correct": false
+        },
+        {
+          "text": "寶寧里",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "香港兒童醫院位於：",
+      "options": [
+        {
+          "text": "九龍灣",
+          "correct": true
+        },
+        {
+          "text": "薄扶林",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "上水",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "星光大道位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "元朗",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "金紫荊廣場位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": true
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "大圍",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "香港濕地公園位於：",
+      "options": [
+        {
+          "text": "天水圍",
+          "correct": true
+        },
+        {
+          "text": "赤柱",
+          "correct": false
+        },
+        {
+          "text": "黃竹坑",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "大館位於：",
+      "options": [
+        {
+          "text": "荷李活道",
+          "correct": true
+        },
+        {
+          "text": "彌敦道",
+          "correct": false
+        },
+        {
+          "text": "沙田正街",
+          "correct": false
+        },
+        {
+          "text": "青山公路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "香港故宮文化博物館位於： ________________________________________",
+      "options": [
+        {
+          "text": "博物館道",
+          "correct": true
+        },
+        {
+          "text": "山頂道",
+          "correct": false
+        },
+        {
+          "text": "軒尼詩道",
+          "correct": false
+        },
+        {
+          "text": "達東路",
+          "correct": false
+        },
+        {
+  "questions": [
+    {
+      "section": "",
+      "q": "贊育醫院位於：",
+      "options": [
+        {
+          "text": "西營盤",
+          "correct": true
+        },
+        {
+          "text": "薄扶林",
+          "correct": false
+        },
+        {
+          "text": "上環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "東華醫院位於：",
+      "options": [
+        {
+          "text": "大坑",
+          "correct": false
+        },
+        {
+          "text": "上環",
+          "correct": true
+        },
+        {
+          "text": "油麻地",
+          "correct": false
+        },
+        {
+          "text": "九龍城",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "葛量洪醫院位於：",
+      "options": [
+        {
+          "text": "黃竹坑",
+          "correct": true
+        },
+        {
+          "text": "柴灣",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "東華東院位於：",
+      "options": [
+        {
+          "text": "跑馬地",
+          "correct": false
+        },
+        {
+          "text": "大坑",
+          "correct": true
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "西營盤",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "黃竹坑醫院位於：",
+      "options": [
+        {
+          "text": "黃竹坑徑",
+          "correct": true
+        },
+        {
+          "text": "黃竹坑道",
+          "correct": false
+        },
+        {
+          "text": "香葉道",
+          "correct": false
+        },
+        {
+          "text": "南朗山道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港眼科醫院位於：",
+      "options": [
+        {
+          "text": "油麻地",
+          "correct": false
+        },
+        {
+          "text": "九龍城",
+          "correct": true
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "深水埗",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "聖母醫院位於：",
+      "options": [
+        {
+          "text": "黃大仙",
+          "correct": true
+        },
+        {
+          "text": "樂富",
+          "correct": false
+        },
+        {
+          "text": "秀茂坪",
+          "correct": false
+        },
+        {
+          "text": "九龍塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "廣華醫院位於：",
+      "options": [
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "油麻地",
+          "correct": true
+        },
+        {
+          "text": "佐敦",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "瑪嘉烈醫院位於：",
+      "options": [
+        {
+          "text": "長沙灣",
+          "correct": false
+        },
+        {
+          "text": "荔景",
+          "correct": true
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        },
+        {
+          "text": "葵涌",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "基督教聯合醫院位於：",
+      "options": [
+        {
+          "text": "將軍澳",
+          "correct": false
+        },
+        {
+          "text": "秀茂坪",
+          "correct": true
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "黃大仙",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "將軍澳醫院位於：",
+      "options": [
+        {
+          "text": "寶寧里",
+          "correct": true
+        },
+        {
+          "text": "寶琳北路",
+          "correct": false
+        },
+        {
+          "text": "翠嶺里",
+          "correct": false
+        },
+        {
+          "text": "松仁路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "屯門醫院位於：",
+      "options": [
+        {
+          "text": "屯喜路",
+          "correct": false
+        },
+        {
+          "text": "青松觀路",
+          "correct": true
+        },
+        {
+          "text": "天壇街",
+          "correct": false
+        },
+        {
+          "text": "全安路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "養和醫院位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "半山",
+          "correct": false
+        },
+        {
+          "text": "跑馬地",
+          "correct": true
+        },
+        {
+          "text": "東院道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "寶血醫院（明愛）位於：",
+      "options": [
+        {
+          "text": "長沙灣",
+          "correct": false
+        },
+        {
+          "text": "深水埗",
+          "correct": true
+        },
+        {
+          "text": "荔景",
+          "correct": false
+        },
+        {
+          "text": "油麻地",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港中文大學醫院位於：",
+      "options": [
+        {
+          "text": "澤祥街",
+          "correct": true
+        },
+        {
+          "text": "亞公角街",
+          "correct": false
+        },
+        {
+          "text": "源禾路",
+          "correct": false
+        },
+        {
+          "text": "上禾輋路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "玉器市場位於：",
+      "options": [
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "油麻地",
+          "correct": true
+        },
+        {
+          "text": "深水埗",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "九龍寨城公園位於：",
+      "options": [
+        {
+          "text": "九龍城",
+          "correct": true
+        },
+        {
+          "text": "樂富",
+          "correct": false
+        },
+        {
+          "text": "黃大仙",
+          "correct": false
+        },
+        {
+          "text": "土瓜灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港海洋公園位於：",
+      "options": [
+        {
+          "text": "赤柱",
+          "correct": false
+        },
+        {
+          "text": "黃竹坑",
+          "correct": true
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "亞洲國際博覽館位於：",
+      "options": [
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "赤鱲角",
+          "correct": true
+        },
+        {
+          "text": "竹篙灣",
+          "correct": false
+        },
+        {
+          "text": "昂坪",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港文化博物館位於：",
+      "options": [
+        {
+          "text": "沙田",
+          "correct": true
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港歷史博物館位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "九龍城",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港大會堂位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": true
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "伊利沙伯體育館位於：",
+      "options": [
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": true
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "文武廟位於：",
+      "options": [
+        {
+          "text": "上環",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "大坑",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港藝術館位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "戲曲中心位於：",
+      "options": [
+        {
+          "text": "博物館道",
+          "correct": false
+        },
+        {
+          "text": "柯士甸道西",
+          "correct": true
+        },
+        {
+          "text": "承啟道",
+          "correct": false
+        },
+        {
+          "text": "廣東道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "啟德體育園位於：",
+      "options": [
+        {
+          "text": "承啟道",
+          "correct": true
+        },
+        {
+          "text": "啟成街",
+          "correct": false
+        },
+        {
+          "text": "馬頭角道",
+          "correct": false
+        },
+        {
+          "text": "太子道東",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港文華東方酒店位於：",
+      "options": [
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "中環",
+          "correct": true
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港港麗酒店位於：",
+      "options": [
+        {
+          "text": "金鐘道",
+          "correct": true
+        },
+        {
+          "text": "皇后大道東",
+          "correct": false
+        },
+        {
+          "text": "軒尼詩道",
+          "correct": false
+        },
+        {
+          "text": "英皇道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "北角海逸酒店位於：",
+      "options": [
+        {
+          "text": "渣華道",
+          "correct": false
+        },
+        {
+          "text": "英皇道",
+          "correct": true
+        },
+        {
+          "text": "電氣道",
+          "correct": false
+        },
+        {
+          "text": "康山道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "九龍香格里拉大酒店位於：",
+      "options": [
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港 W 酒店位於：",
+      "options": [
+        {
+          "text": "柯士甸道西",
+          "correct": true
+        },
+        {
+          "text": "廣東道",
+          "correct": false
+        },
+        {
+          "text": "彌敦道",
+          "correct": false
+        },
+        {
+          "text": "漆咸道南",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "帝京酒店位於：",
+      "options": [
+        {
+          "text": "旺角",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "荃灣西如心酒店位於：",
+      "options": [
+        {
+          "text": "青山公路",
+          "correct": false
+        },
+        {
+          "text": "楊屋道",
+          "correct": true
+        },
+        {
+          "text": "荃景圍",
+          "correct": false
+        },
+        {
+          "text": "西樓角路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "富豪機場酒店位於：",
+      "options": [
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "赤鱲角",
+          "correct": true
+        },
+        {
+          "text": "竹篙灣",
+          "correct": false
+        },
+        {
+          "text": "青衣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "政府總部位於：",
+      "options": [
+        {
+          "text": "添美道",
+          "correct": true
+        },
+        {
+          "text": "金鐘道",
+          "correct": false
+        },
+        {
+          "text": "港灣道",
+          "correct": false
+        },
+        {
+          "text": "渣華道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "灣仔政府大樓位於：",
+      "options": [
+        {
+          "text": "皇后大道東",
+          "correct": false
+        },
+        {
+          "text": "港灣道",
+          "correct": true
+        },
+        {
+          "text": "軒尼詩道",
+          "correct": false
+        },
+        {
+          "text": "告士打道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "入境事務處總部位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "將軍澳",
+          "correct": true
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "立法會綜合大樓位於：",
+      "options": [
+        {
+          "text": "金鐘",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "上環",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "高等法院位於：",
+      "options": [
+        {
+          "text": "金鐘道",
+          "correct": true
+        },
+        {
+          "text": "港灣道",
+          "correct": false
+        },
+        {
+          "text": "通州街",
+          "correct": false
+        },
+        {
+          "text": "亞皆老街",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "怡和大廈位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": true
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "上環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "統一中心位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": true
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "友邦廣場位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "創紀之城位於：",
+      "options": [
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": true
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "如心廣場位於：",
+      "options": [
+        {
+          "text": "荃灣",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "東涌",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "又一城位於：",
+      "options": [
+        {
+          "text": "達之路",
+          "correct": true
+        },
+        {
+          "text": "龍翔道",
+          "correct": false
+        },
+        {
+          "text": "太子道西",
+          "correct": false
+        },
+        {
+          "text": "彌敦道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "荷里活廣場位於：",
+      "options": [
+        {
+          "text": "鑽石山",
+          "correct": true
+        },
+        {
+          "text": "黃大仙",
+          "correct": false
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "東薈城名店倉位於：",
+      "options": [
+        {
+          "text": "東涌",
+          "correct": true
+        },
+        {
+          "text": "赤鱲角",
+          "correct": false
+        },
+        {
+          "text": "青衣",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "太古城位於：",
+      "options": [
+        {
+          "text": "鰂魚涌",
+          "correct": true
+        },
+        {
+          "text": "柴灣",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": false
+        },
+        {
+          "text": "西灣河",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "貝沙灣位於： ________________________________________",
+      "options": [
+        {
+          "text": "薄扶林",
+          "correct": true
+        },
+        {
+          "text": "鴨脷洲",
+          "correct": false
+        },
+        {
+          "text": "赤柱",
+          "correct": false
+        },
+        {
+          "text": "黃竹坑",
+          "correct": false
+        },
+        {
+  "questions": [
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "《的士及網約車營運小冊子》涵蓋綜合筆試的哪一部分？",
+      "options": [
+        {
+          "text": "道路使用者守則",
+          "correct": false
+        },
+        {
+          "text": "的士及網約車營運",
+          "correct": true
+        },
+        {
+          "text": "車輛維修技術",
+          "correct": false
+        },
+        {
+          "text": "英文會話",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "《的士及網約車營運小冊子》是否具有法律效力？",
+      "options": [
+        {
+          "text": "有，等同法例",
+          "correct": false
+        },
+        {
+          "text": "有，只適用於的士",
+          "correct": false
+        },
+        {
+          "text": "沒有，只作參考用途",
+          "correct": true
+        },
+        {
+          "text": "有，只適用於網約車",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "此小冊子由哪一天起生效？",
+      "options": [
+        {
+          "text": "2026 年 4 月 1 日",
+          "correct": false
+        },
+        {
+          "text": "2026 年 8 月 3 日",
+          "correct": true
+        },
+        {
+          "text": "2025 年 8 月 3 日",
+          "correct": false
+        },
+        {
+          "text": "2024 年 8 月 3 日",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "的士牌照的持有人即是：",
+      "options": [
+        {
+          "text": "的士司機證持有人",
+          "correct": false
+        },
+        {
+          "text": "的士乘客",
+          "correct": false
+        },
+        {
+          "text": "的士的登記車主",
+          "correct": true
+        },
+        {
+          "text": "網約車平台營辦商",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "下列哪項屬於的士行業主要組成部分？",
+      "options": [
+        {
+          "text": "租車司機、車主司機和出租車主",
+          "correct": true
+        },
+        {
+          "text": "巴士司機、港鐵職員和渡輪船長",
+          "correct": false
+        },
+        {
+          "text": "乘客、警察和酒店職員",
+          "correct": false
+        },
+        {
+          "text": "網店店主、外賣員和貨車司機",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "的士車隊牌照持牌人必須是：",
+      "options": [
+        {
+          "text": "個人的士司機",
+          "correct": false
+        },
+        {
+          "text": "香港註冊公司",
+          "correct": true
+        },
+        {
+          "text": "海外公司",
+          "correct": false
+        },
+        {
+          "text": "任何乘客組織",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "的士車隊牌照與現有的士牌照的關係是：",
+      "options": [
+        {
+          "text": "會取代現有的士牌照",
+          "correct": false
+        },
+        {
+          "text": "不會取代現有的士牌照",
+          "correct": true
+        },
+        {
+          "text": "只取代市區的士牌照",
+          "correct": false
+        },
+        {
+          "text": "只取代大嶼山的士牌照",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "網約車「人車綁定」表示：",
+      "options": [
+        {
+          "text": "網約車必須由公司登記",
+          "correct": false
+        },
+        {
+          "text": "車輛必須由平台擁有",
+          "correct": false
+        },
+        {
+          "text": "只可由該車輛的登記車主駕駛以提供網約車服務",
+          "correct": true
+        },
+        {
+          "text": "乘客必須登記車輛",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "持牌平台在確認乘客網約車訂單時，須向乘客提供：",
+      "options": [
+        {
+          "text": "司機照片和相關資料，例如司機姓名",
+          "correct": true
+        },
+        {
+          "text": "司機銀行戶口",
+          "correct": false
+        },
+        {
+          "text": "司機住址",
+          "correct": false
+        },
+        {
+          "text": "司機醫療紀錄",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "網約車司機在開始營運前和營運期間，須按平台要求進行程序，例如：",
+      "options": [
+        {
+          "text": "人臉辨識",
+          "correct": true
+        },
+        {
+          "text": "體能測試",
+          "correct": false
+        },
+        {
+          "text": "修理汽車考試",
+          "correct": false
+        },
+        {
+          "text": "乘客評分考試",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "若持有網約車車輛駕駛許可證的人士，其私家車或輕型貨車正式駕駛執照被取消，其網約車車輛駕駛許可證會：",
+      "options": [
+        {
+          "text": "即予取消",
+          "correct": true
+        },
+        {
+          "text": "自動續期",
+          "correct": false
+        },
+        {
+          "text": "轉為的士駕駛執照",
+          "correct": false
+        },
+        {
+          "text": "不受影響",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "的士司機違例記分制度涵蓋多少項罪行？",
+      "options": [
+        {
+          "text": "8 項",
+          "correct": false
+        },
+        {
+          "text": "10 項",
+          "correct": false
+        },
+        {
+          "text": "11 項",
+          "correct": true
+        },
+        {
+          "text": "15 項",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "的士司機違例記分制度把罪行按嚴重性分為：",
+      "options": [
+        {
+          "text": "1 分、2 分、3 分",
+          "correct": false
+        },
+        {
+          "text": "3 分、5 分、10 分",
+          "correct": true
+        },
+        {
+          "text": "5 分、10 分、15 分",
+          "correct": false
+        },
+        {
+          "text": "2 分、4 分、6 分",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "四項較嚴重而記 10 分的罪行之一是：",
+      "options": [
+        {
+          "text": "沒有洗車",
+          "correct": false
+        },
+        {
+          "text": "濫收車費",
+          "correct": true
+        },
+        {
+          "text": "沒有播放音樂",
+          "correct": false
+        },
+        {
+          "text": "乘客沒有付款",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "下列哪項屬於 10 分罪行？",
+      "options": [
+        {
+          "text": "拒絕或忽略發出收據",
+          "correct": false
+        },
+        {
+          "text": "沒有將計程錶設定於記錄位置",
+          "correct": false
+        },
+        {
+          "text": "故意拒絕或忽略接受租用",
+          "correct": true
+        },
+        {
+          "text": "車廂不夠整潔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "下列哪項屬於 10 分罪行？",
+      "options": [
+        {
+          "text": "毁損、損壞或更改的士計程錶",
+          "correct": true
+        },
+        {
+          "text": "兜路",
+          "correct": false
+        },
+        {
+          "text": "釣泥鯭",
+          "correct": false
+        },
+        {
+          "text": "拒絕運載租用人要求數目的乘客",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "四項 10 分罪行的重犯者，最高可被處以：",
+      "options": [
+        {
+          "text": "第 1 級罰款及監禁 7 日",
+          "correct": false
+        },
+        {
+          "text": "第 2 級罰款及監禁 1 個月",
+          "correct": false
+        },
+        {
+          "text": "第 3 級罰款港幣 10,000 元及監禁 6 個月",
+          "correct": false
+        },
+        {
+          "text": "第 4 級罰款港幣 25,000 元及監禁 12 個月",
+          "correct": true
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "決定是否根據記分制採取行動時，兩年期是按甚麼日期計算？",
+      "options": [
+        {
+          "text": "被記分日期",
+          "correct": false
+        },
+        {
+          "text": "繳交罰款日期",
+          "correct": false
+        },
+        {
+          "text": "干犯表列罪行的日期",
+          "correct": true
+        },
+        {
+          "text": "司機收到信件日期",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "的士司機在任何兩年期間被記 8 分或以上但少於 15 分，運輸署署長會發出：",
+      "options": [
+        {
+          "text": "的士司機違例記分提示",
+          "correct": true
+        },
+        {
+          "text": "即時停牌令",
+          "correct": false
+        },
+        {
+          "text": "免費的士牌照",
+          "correct": false
+        },
+        {
+          "text": "網約車許可證",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "的士司機被記 10 分或以上，須在通知日期起計多久內完成的士服務改進課程？",
+      "options": [
+        {
+          "text": "1 個月內",
+          "correct": false
+        },
+        {
+          "text": "2 個月內",
+          "correct": false
+        },
+        {
+          "text": "3 個月內",
+          "correct": true
+        },
+        {
+          "text": "6 個月內",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "如的士司機完成的士服務改進課程並通過考試，而減分前總分大於 3 分，通常可扣減多少分？",
+      "options": [
+        {
+          "text": "1 分",
+          "correct": false
+        },
+        {
+          "text": "2 分",
+          "correct": false
+        },
+        {
+          "text": "3 分",
+          "correct": true
+        },
+        {
+          "text": "5 分",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "下列哪種情況下，完成的士服務改進課程後不會獲減分？",
+      "options": [
+        {
+          "text": "司機通過課程考試",
+          "correct": false
+        },
+        {
+          "text": "司機已記分數為 15 分或以上",
+          "correct": true
+        },
+        {
+          "text": "司機只有 2 分",
+          "correct": false
+        },
+        {
+          "text": "司機首次修讀課程",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "的士司機在任何兩年期間被記 15 分或以上，首次被取消駕駛的士資格的停牌期為：",
+      "options": [
+        {
+          "text": "1 個月",
+          "correct": false
+        },
+        {
+          "text": "2 個月",
+          "correct": false
+        },
+        {
+          "text": "3 個月",
+          "correct": true
+        },
+        {
+          "text": "6 個月",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "同一司機其後再被取消駕駛的士資格，每次停牌期為：",
+      "options": [
+        {
+          "text": "1 個月",
+          "correct": false
+        },
+        {
+          "text": "3 個月",
+          "correct": false
+        },
+        {
+          "text": "6 個月",
+          "correct": true
+        },
+        {
+          "text": "12 個月",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "甲部：營運、法例及記分制度",
+      "q": "無合理辯解而沒有在指定限期內完成的士服務改進課程，一經定罪，最高可處： ________________________________________",
+      "options": [
+        {
+          "text": "第 2 級罰款及監禁 1 個月",
+          "correct": true
+        },
+        {
+          "text": "第 4 級罰款及監禁 12 個月",
+          "correct": false
+        },
+        {
+          "text": "只需口頭警告",
+          "correct": false
+        },
+        {
+          "text": "永久取消駕駛所有車輛資格",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全、設備及乘客服務",
+      "q": "的士行車紀錄系統須具備哪些功能？",
+      "options": [
+        {
+          "text": "車廂攝錄機、行車記錄儀及全球衞星導航系統",
+          "correct": true
+        },
+        {
+          "text": "電視娛樂系統、收音機及藍牙音響",
+          "correct": false
+        },
+        {
+          "text": "售票機、收銀機及廣播系統",
+          "correct": false
+        },
+        {
+          "text": "自動泊車系統及按摩座椅",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全、設備及乘客服務",
+      "q": "的士車廂攝錄機錄影時，車內須：",
+      "options": [
+        {
+          "text": "完全不通知乘客",
+          "correct": false
+        },
+        {
+          "text": "在當眼處張貼清晰告示",
+          "correct": true
+        },
+        {
+          "text": "只通知司機",
+          "correct": false
+        },
+        {
+          "text": "只在晚上張貼告示",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全、設備及乘客服務",
+      "q": "行車前檢查輪胎時，胎面坑紋深度至少須有：",
+      "options": [
+        {
+          "text": "0.5 毫米以上",
+          "correct": false
+        },
+        {
+          "text": "1 毫米以上",
+          "correct": true
+        },
+        {
+          "text": "2 厘米以上",
+          "correct": false
+        },
+        {
+          "text": "5 厘米以上",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全、設備及乘客服務",
+      "q": "出發前，司機應確保車輛沒有超載，因為超載會影響：",
+      "options": [
+        {
+          "text": "車身顏色",
+          "correct": false
+        },
+        {
+          "text": "汽車掣動效能及操控",
+          "correct": true
+        },
+        {
+          "text": "車牌號碼",
+          "correct": false
+        },
+        {
+          "text": "收音機音量",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "乙部：安全、設備及乘客服務",
+      "q": "如駕駛時感到疲倦，情況許可下應： ________________________________________",
+      "options": [
+        {
+          "text": "加速完成行程",
+          "correct": false
+        },
+        {
+          "text": "找合適泊車位停車休息",
+          "correct": true
+        },
+        {
+          "text": "在快速公路停車睡覺",
+          "correct": false
+        },
+        {
+          "text": "關掉所有車窗繼續駕駛",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "明愛醫院位於：",
+      "options": [
+        {
+          "text": "長沙灣",
+          "correct": true
+        },
+        {
+          "text": "荔景",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "上水",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "葵涌醫院位於：",
+      "options": [
+        {
+          "text": "荃灣",
+          "correct": false
+        },
+        {
+          "text": "荔景",
+          "correct": true
+        },
+        {
+          "text": "黃大仙",
+          "correct": false
+        },
+        {
+          "text": "屯門",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "仁濟醫院位於：",
+      "options": [
+        {
+          "text": "荃灣",
+          "correct": true
+        },
+        {
+          "text": "元朗",
+          "correct": false
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "靈實醫院位於：",
+      "options": [
+        {
+          "text": "將軍澳",
+          "correct": true
+        },
+        {
+          "text": "九龍城",
+          "correct": false
+        },
+        {
+          "text": "柴灣",
+          "correct": false
+        },
+        {
+          "text": "薄扶林",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "沙田醫院位於：",
+      "options": [
+        {
+          "text": "源禾路",
+          "correct": false
+        },
+        {
+          "text": "亞公角街",
+          "correct": true
+        },
+        {
+          "text": "沙田正街",
+          "correct": false
+        },
+        {
+          "text": "大圍",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "雅麗氏何妙齡那打素醫院位於：",
+      "options": [
+        {
+          "text": "大埔",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "粉嶺",
+          "correct": false
+        },
+        {
+          "text": "上水",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "北區醫院位於：",
+      "options": [
+        {
+          "text": "上水",
+          "correct": true
+        },
+        {
+          "text": "粉嶺",
+          "correct": false
+        },
+        {
+          "text": "元朗",
+          "correct": false
+        },
+        {
+          "text": "屯門",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "博愛醫院位於：",
+      "options": [
+        {
+          "text": "元朗",
+          "correct": true
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        },
+        {
+          "text": "長沙灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "嘉諾撒醫院位於：",
+      "options": [
+        {
+          "text": "半山",
+          "correct": true
+        },
+        {
+          "text": "山頂",
+          "correct": false
+        },
+        {
+          "text": "跑馬地",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丙部：地方題",
+      "q": "香港浸信會醫院位於： ________________________________________",
+      "options": [
+        {
+          "text": "九龍塘",
+          "correct": true
+        },
+        {
+          "text": "九龍城",
+          "correct": false
+        },
+        {
+          "text": "黃大仙",
+          "correct": false
+        },
+        {
+          "text": "樂富",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丁部：路線題",
+      "q": "由西貢匡湖居前往大口環根德公爵夫人兒童醫院，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "西區海底隧道",
+          "correct": true
+        },
+        {
+          "text": "紅磡海底隧道",
+          "correct": false
+        },
+        {
+          "text": "大欖隧道",
+          "correct": false
+        },
+        {
+          "text": "獅子山隧道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丁部：路線題",
+      "q": "由紅磡高山劇場前往長沙灣廣場，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "佛光街、梭椏道及亞皆老街",
+          "correct": true
+        },
+        {
+          "text": "大老山隧道及觀塘繞道",
+          "correct": false
+        },
+        {
+          "text": "西區海底隧道及干諾道西天橋",
+          "correct": false
+        },
+        {
+          "text": "青沙公路及尖山隧道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丁部：路線題",
+      "q": "由荃灣環宇海灣前往米埔自然保護區，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "紅磡海底隧道",
+          "correct": false
+        },
+        {
+          "text": "大欖隧道及青朗公路",
+          "correct": true
+        },
+        {
+          "text": "啟德隧道",
+          "correct": false
+        },
+        {
+          "text": "香港仔隧道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丁部：路線題",
+      "q": "由元朗大會堂前往馬鞍山新港城中心，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "林錦公路",
+          "correct": true
+        },
+        {
+          "text": "東區走廊",
+          "correct": false
+        },
+        {
+          "text": "西區海底隧道",
+          "correct": false
+        },
+        {
+          "text": "康莊道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丁部：路線題",
+      "q": "由荃灣沙咀道遊樂場前往沙田中心，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "大河道及象鼻山道",
+          "correct": true
+        },
+        {
+          "text": "紅棉路及干諾道西天橋",
+          "correct": false
+        },
+        {
+          "text": "漆咸道北及啟德隧道",
+          "correct": false
+        },
+        {
+          "text": "康莊道及紅磡海底隧道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丁部：路線題",
+      "q": "由深水埗南昌邨前往港鐵上水站，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "青沙公路及尖山隧道",
+          "correct": true
+        },
+        {
+          "text": "紅磡海底隧道",
+          "correct": false
+        },
+        {
+          "text": "東九龍走廊",
+          "correct": false
+        },
+        {
+          "text": "香港仔隧道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丁部：路線題",
+      "q": "由佐敦西九龍站巴士總站前往銅鑼灣皇悅酒店，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "康莊道及紅磡海底隧道",
+          "correct": true
+        },
+        {
+          "text": "大欖隧道及青朗公路",
+          "correct": false
+        },
+        {
+          "text": "林錦公路",
+          "correct": false
+        },
+        {
+          "text": "粉嶺公路及大老山隧道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丁部：路線題",
+      "q": "由西九文化區戲曲中心前往九龍灣德福廣場，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "漆咸道北、東九龍走廊及啟德隧道",
+          "correct": true
+        },
+        {
+          "text": "西區海底隧道及紅棉路",
+          "correct": false
+        },
+        {
+          "text": "青山公路葵涌段及龍翔道",
+          "correct": false
+        },
+        {
+          "text": "大河道及象鼻山道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丁部：路線題",
+      "q": "由上水廣場前往入境事務處總部，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "粉嶺公路及大老山隧道",
+          "correct": true
+        },
+        {
+          "text": "紅磡海底隧道",
+          "correct": false
+        },
+        {
+          "text": "西區海底隧道",
+          "correct": false
+        },
+        {
+          "text": "佛光街及亞皆老街",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "丁部：路線題",
+      "q": "由荃灣荃豐中心前往新蒲崗香港考試及評核局，最直接可行路線包括： ________________________________________",
+      "options": [
+        {
+          "text": "青山公路葵涌段及龍翔道",
+          "correct": true
+        },
+        {
+          "text": "康莊道及紅磡海底隧道",
+          "correct": false
+        },
+        {
+          "text": "林錦公路",
+          "correct": false
+        },
+        {
+          "text": "東區走廊",
+          "correct": false
+        },
+        {
+  "questions": [
+    {
+      "section": "",
+      "q": "東華三院馮堯敬醫院位於：",
+      "options": [
+        {
+          "text": "九龍城",
+          "correct": false
+        },
+        {
+          "text": "薄扶林",
+          "correct": true
+        },
+        {
+          "text": "柴灣",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "鄧肇堅醫院位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": true
+        },
+        {
+          "text": "上環",
+          "correct": false
+        },
+        {
+          "text": "油麻地",
+          "correct": false
+        },
+        {
+          "text": "黃竹坑",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "九龍醫院位於：",
+      "options": [
+        {
+          "text": "黃大仙",
+          "correct": false
+        },
+        {
+          "text": "九龍塘",
+          "correct": false
+        },
+        {
+          "text": "九龍城",
+          "correct": true
+        },
+        {
+          "text": "樂富",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港佛教醫院位於：",
+      "options": [
+        {
+          "text": "九龍城",
+          "correct": false
+        },
+        {
+          "text": "樂富",
+          "correct": true
+        },
+        {
+          "text": "黃大仙",
+          "correct": false
+        },
+        {
+          "text": "油麻地",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "東華三院黃大仙醫院位於：",
+      "options": [
+        {
+          "text": "沙田坳道",
+          "correct": true
+        },
+        {
+          "text": "龍翔道",
+          "correct": false
+        },
+        {
+          "text": "亞公角街",
+          "correct": false
+        },
+        {
+          "text": "寶琳北路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "大埔醫院位於：",
+      "options": [
+        {
+          "text": "汀角路",
+          "correct": false
+        },
+        {
+          "text": "澤祥街",
+          "correct": false
+        },
+        {
+          "text": "全安路",
+          "correct": true
+        },
+        {
+          "text": "青松觀路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "明德國際醫院位於：",
+      "options": [
+        {
+          "text": "半山",
+          "correct": false
+        },
+        {
+          "text": "山頂",
+          "correct": true
+        },
+        {
+          "text": "跑馬地",
+          "correct": false
+        },
+        {
+          "text": "薄扶林",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港港安醫院位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "跑馬地",
+          "correct": true
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "聖保祿醫院位於：",
+      "options": [
+        {
+          "text": "東院道",
+          "correct": true
+        },
+        {
+          "text": "皇后大道東",
+          "correct": false
+        },
+        {
+          "text": "英皇道",
+          "correct": false
+        },
+        {
+          "text": "港灣道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "播道醫院位於：",
+      "options": [
+        {
+          "text": "九龍塘",
+          "correct": false
+        },
+        {
+          "text": "九龍城",
+          "correct": true
+        },
+        {
+          "text": "黃大仙",
+          "correct": false
+        },
+        {
+          "text": "油麻地",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "聖德肋撒醫院位於：",
+      "options": [
+        {
+          "text": "樂富",
+          "correct": false
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "九龍城",
+          "correct": true
+        },
+        {
+          "text": "長沙灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "荃灣港安醫院位於：",
+      "options": [
+        {
+          "text": "荃景圍",
+          "correct": true
+        },
+        {
+          "text": "楊屋道",
+          "correct": false
+        },
+        {
+          "text": "西樓角路",
+          "correct": false
+        },
+        {
+          "text": "青山公路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "仁安醫院位於：",
+      "options": [
+        {
+          "text": "富健街",
+          "correct": true
+        },
+        {
+          "text": "源禾路",
+          "correct": false
+        },
+        {
+          "text": "上禾輋路",
+          "correct": false
+        },
+        {
+          "text": "亞公角街",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "青山醫院位於：",
+      "options": [
+        {
+          "text": "元朗",
+          "correct": false
+        },
+        {
+          "text": "屯門",
+          "correct": true
+        },
+        {
+          "text": "天水圍",
+          "correct": false
+        },
+        {
+          "text": "上水",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "小欖醫院位於：",
+      "options": [
+        {
+          "text": "青松觀路",
+          "correct": true
+        },
+        {
+          "text": "屯喜路",
+          "correct": false
+        },
+        {
+          "text": "天壇街",
+          "correct": false
+        },
+        {
+          "text": "松仁路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "天水圍醫院位於：",
+      "options": [
+        {
+          "text": "天瑞路",
+          "correct": false
+        },
+        {
+          "text": "天壇街",
+          "correct": true
+        },
+        {
+          "text": "青松觀路",
+          "correct": false
+        },
+        {
+          "text": "屯喜路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "港怡醫院位於：",
+      "options": [
+        {
+          "text": "薄扶林",
+          "correct": false
+        },
+        {
+          "text": "黃竹坑",
+          "correct": true
+        },
+        {
+          "text": "柴灣",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "啟德醫院位於：",
+      "options": [
+        {
+          "text": "九龍灣",
+          "correct": true
+        },
+        {
+          "text": "啟德",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "土瓜灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港中醫醫院位於：",
+      "options": [
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "將軍澳",
+          "correct": true
+        },
+        {
+          "text": "黃竹坑",
+          "correct": false
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "昂坪纜車－東涌纜車站位於：",
+      "options": [
+        {
+          "text": "達東路",
+          "correct": true
+        },
+        {
+          "text": "松仁路",
+          "correct": false
+        },
+        {
+          "text": "博物館道",
+          "correct": false
+        },
+        {
+          "text": "柯士甸道西",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "寶蓮禪寺位於：",
+      "options": [
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "昂坪",
+          "correct": true
+        },
+        {
+          "text": "竹篙灣",
+          "correct": false
+        },
+        {
+          "text": "赤鱲角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "屏山文物徑位於：",
+      "options": [
+        {
+          "text": "粉嶺",
+          "correct": false
+        },
+        {
+          "text": "元朗",
+          "correct": true
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港科學館位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港太空館位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港文化中心位於：",
+      "options": [
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "九龍城",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "尖沙咀天星碼頭位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "1881 位於：",
+      "options": [
+        {
+          "text": "廣東道",
+          "correct": true
+        },
+        {
+          "text": "彌敦道",
+          "correct": false
+        },
+        {
+          "text": "柯士甸道西",
+          "correct": false
+        },
+        {
+          "text": "博物館道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "沙田大會堂位於：",
+      "options": [
+        {
+          "text": "沙田正街",
+          "correct": false
+        },
+        {
+          "text": "源禾路",
+          "correct": true
+        },
+        {
+          "text": "車公廟路",
+          "correct": false
+        },
+        {
+          "text": "上禾輋路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "沙田車公廟位於：",
+      "options": [
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "大圍",
+          "correct": true
+        },
+        {
+          "text": "火炭",
+          "correct": false
+        },
+        {
+          "text": "馬鞍山",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "林村許願廣場位於：",
+      "options": [
+        {
+          "text": "大埔",
+          "correct": true
+        },
+        {
+          "text": "粉嶺",
+          "correct": false
+        },
+        {
+          "text": "元朗",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "龍躍頭文物徑位於：",
+      "options": [
+        {
+          "text": "元朗",
+          "correct": false
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        },
+        {
+          "text": "粉嶺",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "美利樓位於：",
+      "options": [
+        {
+          "text": "赤柱",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "上環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "和昌大押位於：",
+      "options": [
+        {
+          "text": "皇后大道東",
+          "correct": false
+        },
+        {
+          "text": "莊士敦道",
+          "correct": true
+        },
+        {
+          "text": "軒尼詩道",
+          "correct": false
+        },
+        {
+          "text": "告士打道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港藝術中心位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": true
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "M+ 位於：",
+      "options": [
+        {
+          "text": "博物館道",
+          "correct": true
+        },
+        {
+          "text": "山頂道",
+          "correct": false
+        },
+        {
+          "text": "達東路",
+          "correct": false
+        },
+        {
+          "text": "承啟道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "美利酒店位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": true
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港灣仔帝盛酒店位於：",
+      "options": [
+        {
+          "text": "軒尼詩道",
+          "correct": false
+        },
+        {
+          "text": "皇后大道東",
+          "correct": true
+        },
+        {
+          "text": "港灣道",
+          "correct": false
+        },
+        {
+          "text": "告士打道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "港島皇悅酒店位於：",
+      "options": [
+        {
+          "text": "皇后大道東",
+          "correct": false
+        },
+        {
+          "text": "軒尼詩道",
+          "correct": true
+        },
+        {
+          "text": "英皇道",
+          "correct": false
+        },
+        {
+          "text": "金鐘道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "六國酒店位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": true
+        },
+        {
+          "text": "北角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港萬麗海景酒店位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "柏寧酒店位於：",
+      "options": [
+        {
+          "text": "銅鑼灣",
+          "correct": true
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "中環",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "奧華酒店南岸位於：",
+      "options": [
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "黃竹坑",
+          "correct": true
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "赤柱",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "南灣如心酒店位於：",
+      "options": [
+        {
+          "text": "薄扶林",
+          "correct": false
+        },
+        {
+          "text": "黃竹坑",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "柴灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港富麗敦海洋公園酒店位於：",
+      "options": [
+        {
+          "text": "黃竹坑",
+          "correct": true
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "竹篙灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "皇家太平洋酒店位於：",
+      "options": [
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港半島酒店位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港喜來登酒店位於：",
+      "options": [
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港百樂酒店位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港金域假日酒店位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "九龍塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "帝苑酒店位於： ________________________________________",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+  "questions": [
+    {
+      "section": "",
+      "q": "千禧新世界香港酒店位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "海景嘉福洲際酒店位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "港威酒店位於：",
+      "options": [
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "美麗華酒店位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港瑰麗酒店位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "九龍塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "馬哥孛羅香港酒店位於：",
+      "options": [
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港金普頓酒店位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港麗思卡爾頓酒店位於：",
+      "options": [
+        {
+          "text": "廣東道",
+          "correct": false
+        },
+        {
+          "text": "柯士甸道西",
+          "correct": true
+        },
+        {
+          "text": "彌敦道",
+          "correct": false
+        },
+        {
+          "text": "漆咸道南",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港旺角帝盛酒店位於：",
+      "options": [
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "油麻地",
+          "correct": false
+        },
+        {
+          "text": "大角咀",
+          "correct": true
+        },
+        {
+          "text": "九龍城",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "九龍海逸君綽酒店位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": true
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "都會海逸酒店位於：",
+      "options": [
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": true
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "8 度海逸酒店位於：",
+      "options": [
+        {
+          "text": "土瓜灣",
+          "correct": true
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "將軍澳",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港啟德帝盛酒店位於：",
+      "options": [
+        {
+          "text": "啟成街",
+          "correct": false
+        },
+        {
+          "text": "承啟道",
+          "correct": true
+        },
+        {
+          "text": "太子道東",
+          "correct": false
+        },
+        {
+          "text": "馬頭角道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "九龍東如心酒店位於：",
+      "options": [
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": true
+        },
+        {
+          "text": "將軍澳",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "九龍東帝苑酒店位於：",
+      "options": [
+        {
+          "text": "將軍澳",
+          "correct": true
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "啟德",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "麗豪酒店位於：",
+      "options": [
+        {
+          "text": "荃灣",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": true
+        },
+        {
+          "text": "屯門",
+          "correct": false
+        },
+        {
+          "text": "東涌",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "帝景酒店位於：",
+      "options": [
+        {
+          "text": "青衣",
+          "correct": false
+        },
+        {
+          "text": "汀九",
+          "correct": true
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港黃金海岸酒店位於：",
+      "options": [
+        {
+          "text": "屯門市中心",
+          "correct": false
+        },
+        {
+          "text": "掃管笏",
+          "correct": true
+        },
+        {
+          "text": "天水圍",
+          "correct": false
+        },
+        {
+          "text": "元朗",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "嘉湖海逸酒店位於：",
+      "options": [
+        {
+          "text": "天水圍",
+          "correct": true
+        },
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "諾富特東薈城酒店位於：",
+      "options": [
+        {
+          "text": "赤鱲角",
+          "correct": false
+        },
+        {
+          "text": "東涌",
+          "correct": true
+        },
+        {
+          "text": "竹篙灣",
+          "correct": false
+        },
+        {
+          "text": "青衣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港迪士尼樂園酒店位於：",
+      "options": [
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "赤鱲角",
+          "correct": false
+        },
+        {
+          "text": "竹篙灣",
+          "correct": true
+        },
+        {
+          "text": "昂坪",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "迪士尼探索家度假酒店位於：",
+      "options": [
+        {
+          "text": "竹篙灣",
+          "correct": true
+        },
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "赤鱲角",
+          "correct": false
+        },
+        {
+          "text": "愉景灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "迪士尼好萊塢酒店位於：",
+      "options": [
+        {
+          "text": "昂坪",
+          "correct": false
+        },
+        {
+          "text": "竹篙灣",
+          "correct": true
+        },
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "赤鱲角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "麗豪航天城酒店位於：",
+      "options": [
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "竹篙灣",
+          "correct": false
+        },
+        {
+          "text": "赤鱲角",
+          "correct": true
+        },
+        {
+          "text": "青衣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港天際萬豪酒店位於： ________________________________________ 庚部：地方題——政府樓宇",
+      "options": [
+        {
+          "text": "赤鱲角",
+          "correct": true
+        },
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "竹篙灣",
+          "correct": false
+        },
+        {
+          "text": "大嶼山南",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "政府總部位於：",
+      "options": [
+        {
+          "text": "港灣道",
+          "correct": false
+        },
+        {
+          "text": "添美道",
+          "correct": true
+        },
+        {
+          "text": "金鐘道",
+          "correct": false
+        },
+        {
+          "text": "皇后大道東",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "金鐘道政府合署位於：",
+      "options": [
+        {
+          "text": "金鐘道",
+          "correct": true
+        },
+        {
+          "text": "添美道",
+          "correct": false
+        },
+        {
+          "text": "港灣道",
+          "correct": false
+        },
+        {
+          "text": "渣華道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "灣仔政府大樓位於：",
+      "options": [
+        {
+          "text": "軒尼詩道",
+          "correct": false
+        },
+        {
+          "text": "皇后大道東",
+          "correct": false
+        },
+        {
+          "text": "港灣道",
+          "correct": true
+        },
+        {
+          "text": "告士打道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "北角政府合署位於：",
+      "options": [
+        {
+          "text": "英皇道",
+          "correct": false
+        },
+        {
+          "text": "渣華道",
+          "correct": true
+        },
+        {
+          "text": "電氣道",
+          "correct": false
+        },
+        {
+          "text": "康山道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "旺角政府合署位於：",
+      "options": [
+        {
+          "text": "聯運街",
+          "correct": true
+        },
+        {
+          "text": "亞皆老街",
+          "correct": false
+        },
+        {
+          "text": "彌敦道",
+          "correct": false
+        },
+        {
+          "text": "太子道西",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "九龍政府合署位於：",
+      "options": [
+        {
+          "text": "九龍城",
+          "correct": false
+        },
+        {
+          "text": "油麻地",
+          "correct": true
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "深水埗",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "西九龍政府合署位於：",
+      "options": [
+        {
+          "text": "海庭道",
+          "correct": true
+        },
+        {
+          "text": "通州街",
+          "correct": false
+        },
+        {
+          "text": "欽州街",
+          "correct": false
+        },
+        {
+          "text": "廣東道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "培正道政府合署位於：",
+      "options": [
+        {
+          "text": "培正道",
+          "correct": true
+        },
+        {
+          "text": "窩打老道",
+          "correct": false
+        },
+        {
+          "text": "亞皆老街",
+          "correct": false
+        },
+        {
+          "text": "佛光街",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "何文田政府合署位於：",
+      "options": [
+        {
+          "text": "忠孝街",
+          "correct": true
+        },
+        {
+          "text": "培正道",
+          "correct": false
+        },
+        {
+          "text": "公主道",
+          "correct": false
+        },
+        {
+          "text": "常盛街",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "馬頭角道政府合署位於：",
+      "options": [
+        {
+          "text": "馬頭圍道",
+          "correct": false
+        },
+        {
+          "text": "馬頭角道",
+          "correct": true
+        },
+        {
+          "text": "土瓜灣道",
+          "correct": false
+        },
+        {
+          "text": "新碼頭街",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "土瓜灣政府合署位於：",
+      "options": [
+        {
+          "text": "馬頭圍道",
+          "correct": true
+        },
+        {
+          "text": "馬頭角道",
+          "correct": false
+        },
+        {
+          "text": "啟德道",
+          "correct": false
+        },
+        {
+          "text": "宋皇臺道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "深水埗政府合署位於：",
+      "options": [
+        {
+          "text": "長沙灣道",
+          "correct": false
+        },
+        {
+          "text": "元州街",
+          "correct": true
+        },
+        {
+          "text": "荔枝角道",
+          "correct": false
+        },
+        {
+          "text": "通州街",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "長沙灣政府合署位於：",
+      "options": [
+        {
+          "text": "元州街",
+          "correct": false
+        },
+        {
+          "text": "荔灣道",
+          "correct": false
+        },
+        {
+          "text": "長沙灣道",
+          "correct": true
+        },
+        {
+          "text": "青山道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "荔枝角政府合署位於：",
+      "options": [
+        {
+          "text": "荔灣道",
+          "correct": true
+        },
+        {
+          "text": "長沙灣道",
+          "correct": false
+        },
+        {
+          "text": "元州街",
+          "correct": false
+        },
+        {
+          "text": "海庭道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "東九龍政府合署位於：",
+      "options": [
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": true
+        },
+        {
+          "text": "啟德",
+          "correct": false
+        },
+        {
+          "text": "牛頭角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "牛頭角政府合署位於：",
+      "options": [
+        {
+          "text": "安華街",
+          "correct": true
+        },
+        {
+          "text": "鯉魚門道",
+          "correct": false
+        },
+        {
+          "text": "康寧道",
+          "correct": false
+        },
+        {
+          "text": "裕民坊",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "西貢政府合署位於：",
+      "options": [
+        {
+          "text": "親民街",
+          "correct": true
+        },
+        {
+          "text": "普通道",
+          "correct": false
+        },
+        {
+          "text": "福民路",
+          "correct": false
+        },
+        {
+          "text": "清水灣道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "沙田政府合署位於：",
+      "options": [
+        {
+          "text": "源禾路",
+          "correct": false
+        },
+        {
+          "text": "沙田正街",
+          "correct": false
+        },
+        {
+          "text": "上禾輋路",
+          "correct": true
+        },
+        {
+          "text": "大涌橋路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "大埔政府合署位於：",
+      "options": [
+        {
+          "text": "汀角路",
+          "correct": true
+        },
+        {
+          "text": "安祥路",
+          "correct": false
+        },
+        {
+          "text": "寶湖道",
+          "correct": false
+        },
+        {
+          "text": "大埔太和路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "北區政府合署位於：",
+      "options": [
+        {
+          "text": "上水",
+          "correct": false
+        },
+        {
+          "text": "粉嶺",
+          "correct": true
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        },
+        {
+          "text": "元朗",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "荃灣政府合署位於：",
+      "options": [
+        {
+          "text": "西樓角路",
+          "correct": true
+        },
+        {
+          "text": "楊屋道",
+          "correct": false
+        },
+        {
+          "text": "青山公路",
+          "correct": false
+        },
+        {
+          "text": "荃景圍",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "葵興政府合署位於：",
+      "options": [
+        {
+          "text": "葵涌道",
+          "correct": false
+        },
+        {
+          "text": "興芳路",
+          "correct": true
+        },
+        {
+          "text": "青山公路",
+          "correct": false
+        },
+        {
+          "text": "和宜合道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "屯門政府合署位於：",
+      "options": [
+        {
+          "text": "青松觀路",
+          "correct": false
+        },
+        {
+          "text": "屯喜路",
+          "correct": true
+        },
+        {
+          "text": "杯渡路",
+          "correct": false
+        },
+        {
+          "text": "屯門鄉事會路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "大興政府合署位於：",
+      "options": [
+        {
+          "text": "屯門",
+          "correct": true
+        },
+        {
+          "text": "元朗",
+          "correct": false
+        },
+        {
+          "text": "天水圍",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "元朗政府合署位於： ________________________________________",
+      "options": [
+        {
+          "text": "青山公路",
+          "correct": false
+        },
+        {
+          "text": "橋樂坊",
+          "correct": true
+        },
+        {
+          "text": "元朗安寧路",
+          "correct": false
+        },
+        {
+          "text": "朗日路",
+          "correct": false
+        },
+        {
+  "questions": [
+    {
+      "section": "",
+      "q": "梅窩政府合署位於：",
+      "options": [
+        {
+          "text": "銀鑛灣路",
+          "correct": true
+        },
+        {
+          "text": "東涌道",
+          "correct": false
+        },
+        {
+          "text": "達東路",
+          "correct": false
+        },
+        {
+          "text": "翔東路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "機電工程署總部大樓位於：",
+      "options": [
+        {
+          "text": "啟成街",
+          "correct": true
+        },
+        {
+          "text": "承啟道",
+          "correct": false
+        },
+        {
+          "text": "太子道東",
+          "correct": false
+        },
+        {
+          "text": "馬頭角道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "入境事務處總部位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "將軍澳",
+          "correct": true
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "中區警區總部位於：",
+      "options": [
+        {
+          "text": "金鐘道",
+          "correct": false
+        },
+        {
+          "text": "中港道",
+          "correct": true
+        },
+        {
+          "text": "港灣道",
+          "correct": false
+        },
+        {
+          "text": "渣華道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "旺角區警署位於：",
+      "options": [
+        {
+          "text": "太子道西",
+          "correct": true
+        },
+        {
+          "text": "彌敦道",
+          "correct": false
+        },
+        {
+          "text": "亞皆老街",
+          "correct": false
+        },
+        {
+          "text": "窩打老道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "觀塘區警署位於：",
+      "options": [
+        {
+          "text": "鯉魚門道",
+          "correct": true
+        },
+        {
+          "text": "裕民坊",
+          "correct": false
+        },
+        {
+          "text": "康寧道",
+          "correct": false
+        },
+        {
+          "text": "觀塘道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "將軍澳區警署位於：",
+      "options": [
+        {
+          "text": "寶琳北路",
+          "correct": true
+        },
+        {
+          "text": "寶寧里",
+          "correct": false
+        },
+        {
+          "text": "翠嶺里",
+          "correct": false
+        },
+        {
+          "text": "松仁路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "荃灣區警署位於：",
+      "options": [
+        {
+          "text": "楊屋道",
+          "correct": false
+        },
+        {
+          "text": "西樓角路",
+          "correct": false
+        },
+        {
+          "text": "荃景圍",
+          "correct": true
+        },
+        {
+          "text": "青山公路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "立法會綜合大樓位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": true
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "上環",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港禮賓府位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": true
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "上環",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港中央圖書館位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": true
+        },
+        {
+          "text": "北角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "醫院管理局大樓位於：",
+      "options": [
+        {
+          "text": "九龍城",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "油麻地",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "終審法院位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": true
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "上環",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "高等法院位於：",
+      "options": [
+        {
+          "text": "金鐘道",
+          "correct": true
+        },
+        {
+          "text": "港灣道",
+          "correct": false
+        },
+        {
+          "text": "通州街",
+          "correct": false
+        },
+        {
+          "text": "亞皆老街",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "區域法院位於：",
+      "options": [
+        {
+          "text": "加士居道",
+          "correct": false
+        },
+        {
+          "text": "港灣道",
+          "correct": true
+        },
+        {
+          "text": "金鐘道",
+          "correct": false
+        },
+        {
+          "text": "通州街",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "東區法院大樓位於：",
+      "options": [
+        {
+          "text": "西灣河",
+          "correct": true
+        },
+        {
+          "text": "北角",
+          "correct": false
+        },
+        {
+          "text": "柴灣",
+          "correct": false
+        },
+        {
+          "text": "鰂魚涌",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "西九龍法院大樓位於：",
+      "options": [
+        {
+          "text": "通州街",
+          "correct": true
+        },
+        {
+          "text": "海庭道",
+          "correct": false
+        },
+        {
+          "text": "欽州街",
+          "correct": false
+        },
+        {
+          "text": "廣東道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "九龍城法院大樓位於：",
+      "options": [
+        {
+          "text": "亞皆老街",
+          "correct": true
+        },
+        {
+          "text": "馬頭角道",
+          "correct": false
+        },
+        {
+          "text": "培正道",
+          "correct": false
+        },
+        {
+          "text": "佛光街",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "觀塘法院大樓位於：",
+      "options": [
+        {
+          "text": "康寧道",
+          "correct": false
+        },
+        {
+          "text": "鯉魚門道",
+          "correct": true
+        },
+        {
+          "text": "裕民坊",
+          "correct": false
+        },
+        {
+          "text": "觀塘道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "沙田法院大樓位於：",
+      "options": [
+        {
+          "text": "宜正里",
+          "correct": true
+        },
+        {
+          "text": "源禾路",
+          "correct": false
+        },
+        {
+          "text": "沙田正街",
+          "correct": false
+        },
+        {
+          "text": "大涌橋路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "粉嶺法院大樓位於：",
+      "options": [
+        {
+          "text": "璧峰路",
+          "correct": true
+        },
+        {
+          "text": "聯和墟",
+          "correct": false
+        },
+        {
+          "text": "粉嶺公路",
+          "correct": false
+        },
+        {
+          "text": "百和路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "屯門法院大樓位於：",
+      "options": [
+        {
+          "text": "屯喜路",
+          "correct": true
+        },
+        {
+          "text": "青松觀路",
+          "correct": false
+        },
+        {
+          "text": "杯渡路",
+          "correct": false
+        },
+        {
+          "text": "屯門鄉事會路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "勞資審裁處位於：",
+      "options": [
+        {
+          "text": "加士居道",
+          "correct": true
+        },
+        {
+          "text": "通州街",
+          "correct": false
+        },
+        {
+          "text": "港灣道",
+          "correct": false
+        },
+        {
+          "text": "金鐘道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "土地審裁處位於：",
+      "options": [
+        {
+          "text": "加士居道",
+          "correct": true
+        },
+        {
+          "text": "通州街",
+          "correct": false
+        },
+        {
+          "text": "亞皆老街",
+          "correct": false
+        },
+        {
+          "text": "鯉魚門道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "小額錢債審裁處位於： ________________________________________ 壬部：地方題——商業大廈",
+      "options": [
+        {
+          "text": "港灣道",
+          "correct": false
+        },
+        {
+          "text": "金鐘道",
+          "correct": false
+        },
+        {
+          "text": "通州街",
+          "correct": true
+        },
+        {
+          "text": "加士居道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "怡和大廈位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": true
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "上環",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "永安集團大廈位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": true
+        },
+        {
+          "text": "上環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港滙豐總行大廈位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": true
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "長江集團中心位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": true
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "環球大廈位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": true
+        },
+        {
+          "text": "上環",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "中遠大廈位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "上環",
+          "correct": true
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "統一中心位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": true
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "力寶中心位於：",
+      "options": [
+        {
+          "text": "金鐘",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "利園位於：",
+      "options": [
+        {
+          "text": "銅鑼灣",
+          "correct": true
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "友邦廣場位於：",
+      "options": [
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "合和中心位於：",
+      "options": [
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "金鐘",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": true
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "美麗華廣場位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "港威大廈位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "企業廣場位於：",
+      "options": [
+        {
+          "text": "九龍灣",
+          "correct": true
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "創紀之城位於：",
+      "options": [
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": true
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "如心廣場位於：",
+      "options": [
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": true
+        },
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "將軍澳",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "電視廣播有限公司電視廣播城位於： ________________________________________ 癸部：地方題——購物商場",
+      "options": [
+        {
+          "text": "將軍澳",
+          "correct": true
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "時代廣場位於：",
+      "options": [
+        {
+          "text": "銅鑼灣",
+          "correct": true
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "中環",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "利舞臺位於：",
+      "options": [
+        {
+          "text": "銅鑼灣",
+          "correct": true
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "海港城位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "K11 MUSEA 位於：",
+      "options": [
+        {
+          "text": "尖沙咀",
+          "correct": true
+        },
+        {
+          "text": "中環",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "朗豪坊位於：",
+      "options": [
+        {
+          "text": "旺角",
+          "correct": true
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "U Corner 位於：",
+      "options": [
+        {
+          "text": "旺角",
+          "correct": true
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "又一城位於：",
+      "options": [
+        {
+          "text": "彌敦道",
+          "correct": false
+        },
+        {
+          "text": "達之路",
+          "correct": true
+        },
+        {
+          "text": "龍翔道",
+          "correct": false
+        },
+        {
+          "text": "太子道西",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "荷里活廣場位於： ________________________________________",
+      "options": [
+        {
+          "text": "鑽石山",
+          "correct": true
+        },
+        {
+          "text": "黃大仙",
+          "correct": false
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+  "questions": [
+    {
+      "section": "",
+      "q": "黃埔新天地位於：",
+      "options": [
+        {
+          "text": "紅磡",
+          "correct": true
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "裕民坊位於：",
+      "options": [
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "The ANGLE 位於：",
+      "options": [
+        {
+          "text": "啟德",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": true
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "AIRSIDE 位於：",
+      "options": [
+        {
+          "text": "啟德",
+          "correct": true
+        },
+        {
+          "text": "將軍澳",
+          "correct": false
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "雙子匯位於：",
+      "options": [
+        {
+          "text": "啟德",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "銅鑼灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "SOHO West 位於：",
+      "options": [
+        {
+          "text": "荃灣",
+          "correct": false
+        },
+        {
+          "text": "長沙灣",
+          "correct": true
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "上環",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "圍方位於：",
+      "options": [
+        {
+          "text": "車公廟路",
+          "correct": true
+        },
+        {
+          "text": "沙田正街",
+          "correct": false
+        },
+        {
+          "text": "源禾路",
+          "correct": false
+        },
+        {
+          "text": "大涌橋路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "新城市廣場位於：",
+      "options": [
+        {
+          "text": "荃灣",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": true
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        },
+        {
+          "text": "東涌",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "東薈城名店倉位於： ________________________________________ 丑部：地方題——住宅樓宇",
+      "options": [
+        {
+          "text": "東涌",
+          "correct": true
+        },
+        {
+          "text": "赤鱲角",
+          "correct": false
+        },
+        {
+          "text": "青衣",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "太古城位於：",
+      "options": [
+        {
+          "text": "鰂魚涌",
+          "correct": true
+        },
+        {
+          "text": "北角",
+          "correct": false
+        },
+        {
+          "text": "柴灣",
+          "correct": false
+        },
+        {
+          "text": "西灣河",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "杏花邨位於：",
+      "options": [
+        {
+          "text": "柴灣",
+          "correct": true
+        },
+        {
+          "text": "鰂魚涌",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": false
+        },
+        {
+          "text": "筲箕灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "海怡半島位於：",
+      "options": [
+        {
+          "text": "黃竹坑",
+          "correct": false
+        },
+        {
+          "text": "鴨脷洲",
+          "correct": true
+        },
+        {
+          "text": "薄扶林",
+          "correct": false
+        },
+        {
+          "text": "赤柱",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "貝沙灣位於：",
+      "options": [
+        {
+          "text": "薄扶林",
+          "correct": true
+        },
+        {
+          "text": "鴨脷洲",
+          "correct": false
+        },
+        {
+          "text": "黃竹坑",
+          "correct": false
+        },
+        {
+          "text": "山頂",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "淘大花園位於：",
+      "options": [
+        {
+          "text": "九龍灣",
+          "correct": true
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "土瓜灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "德福花園位於：",
+      "options": [
+        {
+          "text": "九龍灣",
+          "correct": true
+        },
+        {
+          "text": "觀塘",
+          "correct": false
+        },
+        {
+          "text": "將軍澳",
+          "correct": false
+        },
+        {
+          "text": "啟德",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "麗港城位於：",
+      "options": [
+        {
+          "text": "觀塘",
+          "correct": true
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "土瓜灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "黃埔花園位於：",
+      "options": [
+        {
+          "text": "紅磡",
+          "correct": true
+        },
+        {
+          "text": "尖沙咀",
+          "correct": false
+        },
+        {
+          "text": "九龍灣",
+          "correct": false
+        },
+        {
+          "text": "旺角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "海逸豪園位於：",
+      "options": [
+        {
+          "text": "紅磡",
+          "correct": true
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "九龍塘",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "美孚新邨位於：",
+      "options": [
+        {
+          "text": "荔枝角",
+          "correct": true
+        },
+        {
+          "text": "長沙灣",
+          "correct": false
+        },
+        {
+          "text": "深水埗",
+          "correct": false
+        },
+        {
+          "text": "葵涌",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "嘉湖山莊位於：",
+      "options": [
+        {
+          "text": "天水圍",
+          "correct": true
+        },
+        {
+          "text": "元朗",
+          "correct": false
+        },
+        {
+          "text": "屯門",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "錦綉花園位於：",
+      "options": [
+        {
+          "text": "元朗",
+          "correct": true
+        },
+        {
+          "text": "天水圍",
+          "correct": false
+        },
+        {
+          "text": "屯門",
+          "correct": false
+        },
+        {
+          "text": "上水",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "綠楊新邨位於：",
+      "options": [
+        {
+          "text": "荃灣",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "青衣",
+          "correct": false
+        },
+        {
+          "text": "葵涌",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "麗城花園位於：",
+      "options": [
+        {
+          "text": "荃灣",
+          "correct": true
+        },
+        {
+          "text": "屯門",
+          "correct": false
+        },
+        {
+          "text": "元朗",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "盈翠半島位於：",
+      "options": [
+        {
+          "text": "青衣",
+          "correct": true
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        },
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "馬灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "珀麗灣位於： ________________________________________",
+      "options": [
+        {
+          "text": "馬灣",
+          "correct": true
+        },
+        {
+          "text": "青衣",
+          "correct": false
+        },
+        {
+          "text": "東涌",
+          "correct": false
+        },
+        {
+          "text": "大嶼山",
+          "correct": false
+        },
+        {
+  "questions": [
+    {
+      "section": "",
+      "q": "沙田第一城位於：",
+      "options": [
+        {
+          "text": "沙田",
+          "correct": true
+        },
+        {
+          "text": "馬鞍山",
+          "correct": false
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        },
+        {
+          "text": "粉嶺",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "新港城位於：",
+      "options": [
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "馬鞍山",
+          "correct": true
+        },
+        {
+          "text": "將軍澳",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "逸瓏灣位於：",
+      "options": [
+        {
+          "text": "白石角",
+          "correct": true
+        },
+        {
+          "text": "馬灣",
+          "correct": false
+        },
+        {
+          "text": "大嶼山",
+          "correct": false
+        },
+        {
+          "text": "東涌",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "東堤灣畔位於：",
+      "options": [
+        {
+          "text": "東涌",
+          "correct": true
+        },
+        {
+          "text": "青衣",
+          "correct": false
+        },
+        {
+          "text": "馬灣",
+          "correct": false
+        },
+        {
+          "text": "荃灣",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "映灣園位於：",
+      "options": [
+        {
+          "text": "東涌",
+          "correct": true
+        },
+        {
+          "text": "屯門",
+          "correct": false
+        },
+        {
+          "text": "天水圍",
+          "correct": false
+        },
+        {
+          "text": "元朗",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "愉景灣位於： ### 寅部：地方題——大專院校",
+      "options": [
+        {
+          "text": "大嶼山",
+          "correct": true
+        },
+        {
+          "text": "馬灣",
+          "correct": false
+        },
+        {
+          "text": "青衣",
+          "correct": false
+        },
+        {
+          "text": "赤鱲角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港中文大學位於：",
+      "options": [
+        {
+          "text": "沙田",
+          "correct": true
+        },
+        {
+          "text": "九龍塘",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港理工大學位於：",
+      "options": [
+        {
+          "text": "紅磡",
+          "correct": true
+        },
+        {
+          "text": "九龍塘",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港城市大學位於：",
+      "options": [
+        {
+          "text": "九龍塘",
+          "correct": true
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "何文田",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港浸會大學位於：",
+      "options": [
+        {
+          "text": "九龍塘",
+          "correct": true
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "小瀝源",
+          "correct": false
+        },
+        {
+          "text": "北角",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "嶺南大學位於：",
+      "options": [
+        {
+          "text": "屯門",
+          "correct": true
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "粉嶺",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港教育大學位於：",
+      "options": [
+        {
+          "text": "大埔",
+          "correct": true
+        },
+        {
+          "text": "沙田",
+          "correct": false
+        },
+        {
+          "text": "屯門",
+          "correct": false
+        },
+        {
+          "text": "將軍澳",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港都會大學位於：",
+      "options": [
+        {
+          "text": "何文田",
+          "correct": true
+        },
+        {
+          "text": "九龍塘",
+          "correct": false
+        },
+        {
+          "text": "紅磡",
+          "correct": false
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港樹仁大學位於：",
+      "options": [
+        {
+          "text": "北角",
+          "correct": true
+        },
+        {
+          "text": "灣仔",
+          "correct": false
+        },
+        {
+          "text": "柴灣",
+          "correct": false
+        },
+        {
+          "text": "西灣河",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "香港恒生大學位於：",
+      "options": [
+        {
+          "text": "小瀝源",
+          "correct": true
+        },
+        {
+          "text": "沙田正街",
+          "correct": false
+        },
+        {
+          "text": "大埔",
+          "correct": false
+        },
+        {
+          "text": "粉嶺",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "聖方濟各大學位於： ### 卯部：剩餘路線題",
+      "options": [
+        {
+          "text": "翠嶺里",
+          "correct": true
+        },
+        {
+          "text": "寶寧里",
+          "correct": false
+        },
+        {
+          "text": "松仁路",
+          "correct": false
+        },
+        {
+          "text": "寶琳北路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "由基督教聯合醫院前往旺角區警署，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "新清水灣道及太子道東",
+          "correct": true
+        },
+        {
+          "text": "紅磡海底隧道",
+          "correct": false
+        },
+        {
+          "text": "西區海底隧道",
+          "correct": false
+        },
+        {
+          "text": "大欖隧道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "由九龍塘香港浸會大學大學會堂前往灣仔鷹君中心，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "紅磡海底隧道",
+          "correct": true
+        },
+        {
+          "text": "大老山隧道",
+          "correct": false
+        },
+        {
+          "text": "青沙公路",
+          "correct": false
+        },
+        {
+          "text": "林錦公路",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "由九龍公共圖書館前往跑馬地馬場，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "紅磡海底隧道",
+          "correct": true
+        },
+        {
+          "text": "西區海底隧道",
+          "correct": false
+        },
+        {
+          "text": "獅子山隧道",
+          "correct": false
+        },
+        {
+          "text": "尖山隧道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "由啟德嘉匯前往美孚廣場，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "中九龍繞道、連翔道及荔枝角道",
+          "correct": true
+        },
+        {
+          "text": "紅磡海底隧道及康莊道",
+          "correct": false
+        },
+        {
+          "text": "大欖隧道及青朗公路",
+          "correct": false
+        },
+        {
+          "text": "香港仔隧道及黃竹坑道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "由西九龍政府合署前往半山香港佑寧堂，最直接可行路線包括：",
+      "options": [
+        {
+          "text": "西區海底隧道、干諾道西天橋及紅棉路",
+          "correct": true
+        },
+        {
+          "text": "紅磡海底隧道及告士打道",
+          "correct": false
+        },
+        {
+          "text": "大老山隧道及觀塘繞道",
+          "correct": false
+        },
+        {
+          "text": "青沙公路及尖山隧道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "由曼克頓山前往科學園，最直接可行路線包括： ### 辰部：營運安全及細節規定",
+      "options": [
+        {
+          "text": "青沙公路及吐露港公路",
+          "correct": true
+        },
+        {
+          "text": "紅磡海底隧道",
+          "correct": false
+        },
+        {
+          "text": "西區海底隧道",
+          "correct": false
+        },
+        {
+          "text": "香港仔隧道",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "司機進入車廂前檢查輪胎時，胎面坑紋須環繞整個輪胎外圓周的四分三寬度，並且深度至少有：",
+      "options": [
+        {
+          "text": "0.5 毫米",
+          "correct": false
+        },
+        {
+          "text": "1 毫米以上",
+          "correct": true
+        },
+        {
+          "text": "2 厘米",
+          "correct": false
+        },
+        {
+          "text": "5 厘米",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "每次更換輪胎後，車輪螺栓／螺帽應該：",
+      "options": [
+        {
+          "text": "扭緊至生產商所定規格",
+          "correct": true
+        },
+        {
+          "text": "只需用手輕輕扭緊",
+          "correct": false
+        },
+        {
+          "text": "不需要檢查",
+          "correct": false
+        },
+        {
+          "text": "由乘客檢查",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "行車前檢查車輛時，司機應確保引擎蓋、行李倉蓋、燃油箱蓋／充石油氣口蓋／充電端口蓋及所有車門：",
+      "options": [
+        {
+          "text": "穩固及關上",
+          "correct": true
+        },
+        {
+          "text": "全部打開通風",
+          "correct": false
+        },
+        {
+          "text": "只關上司機車門",
+          "correct": false
+        },
+        {
+          "text": "不需要檢查",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "行車前，車輛照明系統應：",
+      "options": [
+        {
+          "text": "操作正常和清潔",
+          "correct": true
+        },
+        {
+          "text": "只需車頭燈正常",
+          "correct": false
+        },
+        {
+          "text": "只需指揮燈正常",
+          "correct": false
+        },
+        {
+          "text": "晚上才需要檢查",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "出發前，司機應確保下列哪項足夠？",
+      "options": [
+        {
+          "text": "燃油／石油氣／電池電量、剎車油、引擎潤滑油及冷卻液",
+          "correct": true
+        },
+        {
+          "text": "車身顏色",
+          "correct": false
+        },
+        {
+          "text": "乘客電話號碼",
+          "correct": false
+        },
+        {
+          "text": "車內音樂播放清單",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "的士行車紀錄系統須具備哪些主要功能？",
+      "options": [
+        {
+          "text": "車廂攝錄機、行車記錄儀及全球衞星導航系統",
+          "correct": true
+        },
+        {
+          "text": "電視、音響及遊戲機",
+          "correct": false
+        },
+        {
+          "text": "自動收費機及售票機",
+          "correct": false
+        },
+        {
+          "text": "自動泊車及自動洗車",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "的士行車紀錄系統應由誰安裝或改動？",
+      "options": [
+        {
+          "text": "獲授權安裝人",
+          "correct": true
+        },
+        {
+          "text": "任何乘客",
+          "correct": false
+        },
+        {
+          "text": "任何車房學徒",
+          "correct": false
+        },
+        {
+          "text": "司機自行隨意改裝",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "在規定生效後，的士司機須確保車廂攝錄機不受阻擋，並在車內當眼處張貼清晰告示，告知乘客：",
+      "options": [
+        {
+          "text": "車廂攝錄機正在錄影",
+          "correct": true
+        },
+        {
+          "text": "車費可自由議價",
+          "correct": false
+        },
+        {
+          "text": "乘客不得索取收據",
+          "correct": false
+        },
+        {
+          "text": "司機可拒絕所有短途乘客",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "出發前，車隊的士司機亦應確保車廂內的甚麼系統能正常運作？",
+      "options": [
+        {
+          "text": "司機監察系統",
+          "correct": true
+        },
+        {
+          "text": "自動售票系統",
+          "correct": false
+        },
+        {
+          "text": "車內電影系統",
+          "correct": false
+        },
+        {
+          "text": "行李自動分類系統",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "私家車上八歲以下兒童，如身高未達 1.35 米，必須使用兒童束縛設備；違例司機最高可被罰款：",
+      "options": [
+        {
+          "text": "港幣 500 元",
+          "correct": false
+        },
+        {
+          "text": "港幣 1,000 元",
+          "correct": false
+        },
+        {
+          "text": "港幣 2,000 元",
+          "correct": true
+        },
+        {
+          "text": "港幣 10,000 元",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "司機駕駛時，在前方不可放置多於兩部流動電訊裝置，而每部裝置屏幕對角長度不可超過：",
+      "options": [
+        {
+          "text": "10 厘米",
+          "correct": false
+        },
+        {
+          "text": "15 厘米",
+          "correct": false
+        },
+        {
+          "text": "19 厘米",
+          "correct": true
+        },
+        {
+          "text": "25 厘米",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "的士不得運載個人手提行李以外的貨物，而個人手提行李不得包括：",
+      "options": [
+        {
+          "text": "危險或厭惡性質的貨物，或未經牢固包裝的貨物",
+          "correct": true
+        },
+        {
+          "text": "乘客手袋",
+          "correct": false
+        },
+        {
+          "text": "小型背包",
+          "correct": false
+        },
+        {
+          "text": "傷殘人士的拐杖",
+          "correct": false
+        }
+      ]
+    },
+    {
+      "section": "",
+      "q": "下列哪種情況下，的士司機即使完成的士服務改進課程，也不會獲減分？",
+      "options": [
+        {
+          "text": "過去兩年內曾因完成的士服務改進課程而獲減分",
+          "correct": true
+        },
+        {
+          "text": "首次修讀課程並通過考試",
+          "correct": false
+        },
+        {
+          "text": "減分前有 6 分",
+          "correct": false
+        },
+        {
+          "text": "減分前有 9 分",
+          "correct": false
+        }
+      ]
     }
   ]
 }
