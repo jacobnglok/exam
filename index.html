@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="zh-HK">
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MCQ Revision Quiz</title>
+  <title>的士及網約車綜合筆試 MC Quiz</title>
   <style>
     body {
       font-family: Arial, sans-serif;
-      max-width: 800px;
+      max-width: 900px;
       margin: 30px auto;
       padding: 0 16px;
       background: #f8f9fa;
@@ -19,7 +19,34 @@
       padding: 20px;
     }
     h1 { margin-top: 0; }
-    .meta { color: #555; margin-bottom: 12px; }
+
+    .meta {
+      color: #555;
+      margin-bottom: 12px;
+      line-height: 1.5;
+    }
+
+    .controls {
+      display: flex;
+      gap: 10px;
+      margin-top: 12px;
+      margin-bottom: 12px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .control {
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 10px 14px;
+      background: #fff;
+      cursor: pointer;
+    }
+
+    #nextBtn { background: #0d6efd; color: #fff; border: none; }
+    #restartBtn { background: #6c757d; color: #fff; border: none; }
+    #retryWrongBtn { background: #fd7e14; color: #fff; border: none; }
+
     .option {
       display: block;
       width: 100%;
@@ -33,23 +60,27 @@
     }
     .option:hover:enabled { background: #f2f2f2; }
     .option:disabled { cursor: not-allowed; opacity: 0.95; }
+
     .correct { background: #d4edda !important; border-color: #28a745; }
     .wrong { background: #f8d7da !important; border-color: #dc3545; }
-    .controls {
-      display: flex;
-      gap: 10px;
+
+    #feedback {
+      margin-top: 10px;
+      font-weight: bold;
+      min-height: 24px;
+    }
+
+    #analytics {
       margin-top: 14px;
-      flex-wrap: wrap;
-    }
-    button.control {
-      border: none;
+      background: #f6f7f9;
+      border: 1px solid #e2e5e9;
       border-radius: 8px;
-      padding: 10px 14px;
-      cursor: pointer;
+      padding: 10px;
+      font-size: 14px;
+      line-height: 1.5;
+      color: #333;
     }
-    #nextBtn { background: #0d6efd; color: white; }
-    #restartBtn { background: #6c757d; color: white; }
-    #feedback { margin-top: 10px; font-weight: bold; }
+
     .error {
       background: #fff3cd;
       border: 1px solid #ffe69c;
@@ -62,24 +93,27 @@
 <body>
   <div class="card">
     <h1>MCQ Revision</h1>
-    <div class="controls" style="margin-bottom:12px;">
+
+    <div class="controls">
       <label for="sectionFilter"><strong>選擇部分：</strong></label>
-      <select id="sectionFilter" class="control" style="padding:8px;border:1px solid #ccc;border-radius:8px;">
+      <select id="sectionFilter" class="control">
         <option value="ALL">全部</option>
-        <option value="甲部">甲部：營運、法例及記分制度</option>
-        <option value="乙部">乙部：地方及路線</option>
       </select>
+
+      <button id="restartBtn" class="control" disabled>重新開始（重排）</button>
+      <button id="retryWrongBtn" class="control" disabled>重做錯題</button>
     </div>
+
     <div id="meta" class="meta">Loading questions...</div>
     <h3 id="questionText"></h3>
     <div id="options"></div>
     <div id="feedback"></div>
 
     <div class="controls">
-      <button id="nextBtn" class="control" disabled>Next</button>
-      <button id="restartBtn" class="control" disabled>Restart (Reshuffle)</button>
+      <button id="nextBtn" class="control" disabled>下一題</button>
     </div>
 
+    <div id="analytics"></div>
     <div id="errorBox" style="margin-top:12px;"></div>
   </div>
 
