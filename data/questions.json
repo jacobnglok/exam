@@ -1,0 +1,31 @@
+{
+  "questions": [
+    {
+      "q": "What is the capital of France?",
+      "options": [
+        { "text": "Paris", "correct": true },
+        { "text": "Berlin", "correct": false },
+        { "text": "Rome", "correct": false },
+        { "text": "Madrid", "correct": false }
+      ]
+    },
+    {
+      "q": "Which planet is known as the Red Planet?",
+      "options": [
+        { "text": "Venus", "correct": false },
+        { "text": "Mars", "correct": true },
+        { "text": "Jupiter", "correct": false },
+        { "text": "Mercury", "correct": false }
+      ]
+    },
+    {
+      "q": "2 + 2 equals?",
+      "options": [
+        { "text": "3", "correct": false },
+        { "text": "4", "correct": true },
+        { "text": "5", "correct": false },
+        { "text": "22", "correct": false }
+      ]
+    }
+  ]
+}

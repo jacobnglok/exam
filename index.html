@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MCQ Revision Quiz</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 30px auto;
+      padding: 0 16px;
+      background: #f8f9fa;
+    }
+    .card {
+      background: #fff;
+      border: 1px solid #ddd;
+      border-radius: 12px;
+      padding: 20px;
+    }
+    h1 { margin-top: 0; }
+    .meta { color: #555; margin-bottom: 12px; }
+    .option {
+      display: block;
+      width: 100%;
+      text-align: left;
+      margin: 8px 0;
+      padding: 10px 12px;
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      background: #fff;
+      cursor: pointer;
+    }
+    .option:hover:enabled { background: #f2f2f2; }
+    .option:disabled { cursor: not-allowed; opacity: 0.95; }
+    .correct { background: #d4edda !important; border-color: #28a745; }
+    .wrong { background: #f8d7da !important; border-color: #dc3545; }
+    .controls {
+      display: flex;
+      gap: 10px;
+      margin-top: 14px;
+      flex-wrap: wrap;
+    }
+    button.control {
+      border: none;
+      border-radius: 8px;
+      padding: 10px 14px;
+      cursor: pointer;
+    }
+    #nextBtn { background: #0d6efd; color: white; }
+    #restartBtn { background: #6c757d; color: white; }
+    #feedback { margin-top: 10px; font-weight: bold; }
+    .error {
+      background: #fff3cd;
+      border: 1px solid #ffe69c;
+      padding: 10px;
+      border-radius: 8px;
+      color: #664d03;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>MCQ Revision</h1>
+    <div id="meta" class="meta">Loading questions...</div>
+    <h3 id="questionText"></h3>
+    <div id="options"></div>
+    <div id="feedback"></div>
+
+    <div class="controls">
+      <button id="nextBtn" class="control" disabled>Next</button>
+      <button id="restartBtn" class="control" disabled>Restart (Reshuffle)</button>
+    </div>
+
+    <div id="errorBox" style="margin-top:12px;"></div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
