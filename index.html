@@ -62,6 +62,16 @@
 <body>
   <div class="card">
     <h1>MCQ Revision</h1>
+    <div class="controls" style="margin-bottom:12px;">
+      <label for="sectionFilter"><strong>選擇部分：</strong></label>
+      <select id="sectionFilter" class="control" style="padding:8px;border:1px solid #ccc;border-radius:8px;">
+        <option value="ALL">全部</option>
+        <option value="甲部">甲部：的士及網約車營運</option>
+        <option value="乙部">乙部：安全、法例及服務</option>
+        <option value="丙部">丙部：的士司機違例記分制度</option>
+        <option value="丁部">丁部：地方及路線</option>
+      </select>
+    </div>
     <div id="meta" class="meta">Loading questions...</div>
     <h3 id="questionText"></h3>
     <div id="options"></div>
