@@ -1,12 +1,13 @@
 (() => {
-  // Try fixed file first, fallback to original
+  // Prefer repaired file first, then fallback
   const DATA_CANDIDATES = [
     "./data/questions.fixed.json",
     "./data/questions.json"
   ];
 
-  const STORAGE_KEY = "mcq_quiz_state_v4";
+  const STORAGE_KEY = "mcq_quiz_state_v5";
 
+  // ----- State -----
   let questionBank = [];
   let quiz = [];
   let index = 0;
@@ -14,10 +15,10 @@
   let answered = false;
   let currentFilter = "ALL";
   let mode = "ALL"; // "ALL" | "WRONG"
+  let wrongSet = new Set(); // store question ids
+  let stats = {}; // { [section]: { attempted, correct } }
 
-  let wrongSet = new Set(); // question ids
-  let stats = {}; // { section: { attempted, correct } }
-
+  // ----- Elements -----
   const metaEl = document.getElementById("meta");
   const questionTextEl = document.getElementById("questionText");
   const optionsEl = document.getElementById("options");
@@ -29,9 +30,32 @@
   const errorBox = document.getElementById("errorBox");
   const sectionFilterEl = document.getElementById("sectionFilter");
 
+  // Guard missing required elements
+  const required = [
+    ["meta", metaEl],
+    ["questionText", questionTextEl],
+    ["options", optionsEl],
+    ["feedback", feedbackEl],
+    ["nextBtn", nextBtn],
+    ["restartBtn", restartBtn],
+    ["retryWrongBtn", retryWrongBtn],
+    ["analytics", analyticsEl],
+    ["errorBox", errorBox],
+    ["sectionFilter", sectionFilterEl]
+  ];
+
+  for (const [name, el] of required) {
+    if (!el) {
+      console.error(`Missing element id="${name}" in index.html`);
+      return;
+    }
+  }
+
+  // ----- Utils -----
   function showError(message) {
     errorBox.innerHTML = `<div class="error">${message}</div>`;
   }
+
   function clearError() {
     errorBox.innerHTML = "";
   }
@@ -45,19 +69,17 @@
     return a;
   }
 
-  function makeId(section, qText, fallbackIndex) {
-    // stable readable id
-    return `${section}|||${qText}` || `Q${fallbackIndex + 1}`;
+  function makeId(section, qText, i) {
+    return `${section}|||${qText}|||${i}`;
   }
 
-  // Robust extractor: works even if JSON has nested/repeated "questions" blocks
+  // Extract question objects robustly (handles nested/repeated wrappers)
   function extractQuestionObjects(anyData) {
     const out = [];
     const stack = [anyData];
 
     while (stack.length) {
       const cur = stack.pop();
-
       if (!cur) continue;
 
       if (Array.isArray(cur)) {
@@ -66,17 +88,14 @@
       }
 
       if (typeof cur === "object") {
-        // Dive into common wrapper
         if (Array.isArray(cur.questions)) {
           stack.push(cur.questions);
         }
 
-        // A valid question candidate
         if (typeof cur.q === "string" && Array.isArray(cur.options)) {
           out.push(cur);
         }
 
-        // Also inspect other object fields (to survive malformed nesting)
         for (const key of Object.keys(cur)) {
           if (key !== "questions") stack.push(cur[key]);
         }
@@ -88,24 +107,29 @@
 
   function normalizeQuestions(raw) {
     const candidates = extractQuestionObjects(raw);
-    const cleaned = [];
     const seen = new Set();
+    const cleaned = [];
 
     for (let i = 0; i < candidates.length; i++) {
       const q = candidates[i];
       const section = (q.section || "未分類").toString().trim();
       const qText = (q.q || "").toString().trim();
-      if (!qText) continue;
 
+      if (!qText) continue;
       if (!Array.isArray(q.options) || q.options.length < 2) continue;
+
       const options = q.options
         .filter(o => o && typeof o.text === "string")
-        .map(o => ({ text: o.text.trim(), correct: o.correct === true }));
+        .map(o => ({
+          text: o.text.trim(),
+          correct: o.correct === true
+        }));
 
       if (options.length < 2) continue;
       const correctCount = options.filter(o => o.correct).length;
       if (correctCount !== 1) continue;
 
+      // dedupe by section + question text
       const dedupeKey = `${section}|||${qText}`;
       if (seen.has(dedupeKey)) continue;
       seen.add(dedupeKey);
@@ -138,65 +162,7 @@
     throw lastErr || new Error("No data file available");
   }
 
-  function buildSectionFilter() {
-    const sections = [...new Set(questionBank.map(q => q.section))]
-      .sort((a, b) => a.localeCompare(b, "zh-HK"));
-
-    sectionFilterEl.innerHTML = `<option value="ALL">全部</option>`;
-    for (const s of sections) {
-      const opt = document.createElement("option");
-      opt.value = s;
-      opt.textContent = s;
-      sectionFilterEl.appendChild(opt);
-    }
-
-    if (!sections.includes(currentFilter)) currentFilter = "ALL";
-    sectionFilterEl.value = currentFilter;
-  }
-
-  function getFilteredQuestions() {
-    const bySection = currentFilter === "ALL"
-      ? questionBank
-      : questionBank.filter(q => q.section === currentFilter);
-
-    if (mode === "WRONG") {
-      return bySection.filter(q => wrongSet.has(q.id));
-    }
-    return bySection;
-  }
-
-  function ensureStats(section) {
-    if (!stats[section]) stats[section] = { attempted: 0, correct: 0 };
-  }
-
-  function renderAnalytics() {
-    const entries = Object.entries(stats)
-      .sort((a, b) => a[0].localeCompare(b[0], "zh-HK"));
-
-    const totalAttempted = entries.reduce((sum, [, v]) => sum + v.attempted, 0);
-    const totalCorrect = entries.reduce((sum, [, v]) => sum + v.correct, 0);
-    const overall = totalAttempted ? Math.round((totalCorrect / totalAttempted) * 100) : 0;
-
-    const lines = entries.map(([sec, v]) => {
-      const p = v.attempted ? Math.round((v.correct / v.attempted) * 100) : 0;
-      return `${sec}: ${v.correct}/${v.attempted} (${p}%)`;
-    });
-
-    analyticsEl.innerHTML = `
-      <strong>學習統計</strong><br>
-      整體：${totalCorrect}/${totalAttempted} (${overall}%)<br>
-      錯題池：${wrongSet.size}<br>
-      ${lines.join("<br>")}
-    `;
-  }
-
-  function updateMeta() {
-    const total = quiz.length;
-    const currentNo = total ? Math.min(index + 1, total) : 0;
-    const modeText = mode === "WRONG" ? "重做錯題" : "全部題目";
-    metaEl.textContent = `篩選：${currentFilter}｜模式：${modeText}｜第 ${currentNo}/${total} 題｜分數：${score}`;
-  }
-
+  // ----- Persistence -----
   function saveState() {
     const state = {
       currentFilter,
@@ -232,34 +198,69 @@
     }
   }
 
-  function startQuiz(newMode = "ALL") {
-    mode = newMode;
-    index = 0;
-    score = 0;
-    answered = false;
-    feedbackEl.textContent = "";
+  // ----- Filter / Mode -----
+  function buildSectionFilter() {
+    const sections = [...new Set(questionBank.map(q => q.section))]
+      .sort((a, b) => a.localeCompare(b, "zh-HK"));
 
-    const filtered = getFilteredQuestions();
-
-    if (!filtered.length) {
-      quiz = [];
-      questionTextEl.textContent =
-        mode === "WRONG" ? "沒有錯題可重做。👏" : "此部分暫時沒有題目。";
-      optionsEl.innerHTML = "";
-      nextBtn.disabled = true;
-      retryWrongBtn.disabled = wrongSet.size === 0;
-      updateMeta();
-      renderAnalytics();
-      saveState();
-      return;
+    sectionFilterEl.innerHTML = `<option value="ALL">全部</option>`;
+    for (const s of sections) {
+      const opt = document.createElement("option");
+      opt.value = s;
+      opt.textContent = s;
+      sectionFilterEl.appendChild(opt);
     }
 
-    quiz = shuffle(filtered).map(q => ({
-      ...q,
-      options: shuffle(q.options)
-    }));
+    if (!sections.includes(currentFilter)) currentFilter = "ALL";
+    sectionFilterEl.value = currentFilter;
+  }
 
-    renderQuestion();
+  function getFilteredQuestions() {
+    const bySection = currentFilter === "ALL"
+      ? questionBank
+      : questionBank.filter(q => q.section === currentFilter);
+
+    if (mode === "WRONG") {
+      return bySection.filter(q => wrongSet.has(q.id));
+    }
+    return bySection;
+  }
+
+  // ----- Analytics -----
+  function ensureStats(section) {
+    if (!stats[section]) stats[section] = { attempted: 0, correct: 0 };
+  }
+
+  function renderAnalytics() {
+    const entries = Object.entries(stats).sort((a, b) =>
+      a[0].localeCompare(b[0], "zh-HK")
+    );
+
+    const totalAttempted = entries.reduce((sum, [, v]) => sum + (v.attempted || 0), 0);
+    const totalCorrect = entries.reduce((sum, [, v]) => sum + (v.correct || 0), 0);
+    const overall = totalAttempted ? Math.round((totalCorrect / totalAttempted) * 100) : 0;
+
+    const lines = entries.map(([sec, v]) => {
+      const attempted = v.attempted || 0;
+      const correct = v.correct || 0;
+      const p = attempted ? Math.round((correct / attempted) * 100) : 0;
+      return `${sec}: ${correct}/${attempted} (${p}%)`;
+    });
+
+    analyticsEl.innerHTML = `
+      <strong>學習統計</strong><br>
+      整體：${totalCorrect}/${totalAttempted} (${overall}%)<br>
+      錯題池：${wrongSet.size}<br>
+      ${lines.join("<br>")}
+    `;
+  }
+
+  // ----- Render -----
+  function updateMeta() {
+    const total = quiz.length;
+    const currentNo = total ? Math.min(index + 1, total) : 0;
+    const modeText = mode === "WRONG" ? "重做錯題" : "全部題目";
+    metaEl.textContent = `篩選：${currentFilter}｜模式：${modeText}｜第 ${currentNo}/${total} 題｜分數：${score}`;
   }
 
   function renderQuestion() {
@@ -316,7 +317,7 @@
       score += 1;
       stats[current.section].correct += 1;
 
-      // if in wrong-mode and now correct, remove from wrong pool
+      // in WRONG mode, answering correctly removes from wrong pool
       if (mode === "WRONG") wrongSet.delete(current.id);
     } else {
       buttons[selectedIndex].classList.add("wrong");
@@ -333,7 +334,37 @@
     saveState();
   }
 
-  // Events
+  function startQuiz(newMode = "ALL") {
+    mode = newMode;
+    index = 0;
+    score = 0;
+    answered = false;
+    feedbackEl.textContent = "";
+
+    const filtered = getFilteredQuestions();
+
+    if (!filtered.length) {
+      quiz = [];
+      questionTextEl.textContent =
+        mode === "WRONG" ? "沒有錯題可重做。👏" : "此部分暫時沒有題目。";
+      optionsEl.innerHTML = "";
+      nextBtn.disabled = true;
+      retryWrongBtn.disabled = wrongSet.size === 0;
+      updateMeta();
+      renderAnalytics();
+      saveState();
+      return;
+    }
+
+    quiz = shuffle(filtered).map(q => ({
+      ...q,
+      options: shuffle(q.options)
+    }));
+
+    renderQuestion();
+  }
+
+  // ----- Events -----
   nextBtn.addEventListener("click", () => {
     index += 1;
     renderQuestion();
@@ -344,15 +375,19 @@
   });
 
   retryWrongBtn.addEventListener("click", () => {
+    if (wrongSet.size === 0) {
+      feedbackEl.textContent = "目前沒有錯題可重做。";
+      return;
+    }
     startQuiz("WRONG");
   });
 
-  sectionFilterEl.addEventListener("change", (e) => {
+  sectionFilterEl.addEventListener("change", e => {
     currentFilter = e.target.value;
-    startQuiz(mode);
+    startQuiz(mode); // keep current mode
   });
 
-  // Init
+  // ----- Init -----
   async function init() {
     try {
       clearError();
@@ -367,19 +402,19 @@
       buildSectionFilter();
       restartBtn.disabled = false;
 
-      // Restore state if exists
       const restored = loadState();
-      if (restored && quiz.length) {
-        // if old filter no longer exists, reset
-        if (![...sectionFilterEl.options].some(o => o.value === currentFilter)) {
-          currentFilter = "ALL";
-          sectionFilterEl.value = "ALL";
-          startQuiz("ALL");
-        } else {
-          sectionFilterEl.value = currentFilter;
-          renderQuestion();
-        }
+      if (
+        restored &&
+        Array.isArray(quiz) &&
+        quiz.length &&
+        [...sectionFilterEl.options].some(o => o.value === currentFilter)
+      ) {
+        sectionFilterEl.value = currentFilter;
+        renderQuestion();
       } else {
+        currentFilter = "ALL";
+        sectionFilterEl.value = "ALL";
+        mode = "ALL";
         startQuiz("ALL");
       }
 
@@ -391,6 +426,7 @@
       nextBtn.disabled = true;
       restartBtn.disabled = true;
       retryWrongBtn.disabled = true;
+
       showError(
         `Failed to load questions.<br>
          Error: ${err.message}<br><br>
