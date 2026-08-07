@@ -3,6 +3,7 @@ let quiz = [];
 let index = 0;
 let score = 0;
 let answered = false;
+let currentFilter = "ALL";
 
 const metaEl = document.getElementById("meta");
 const questionTextEl = document.getElementById("questionText");
@@ -11,6 +12,7 @@ const feedbackEl = document.getElementById("feedback");
 const nextBtn = document.getElementById("nextBtn");
 const restartBtn = document.getElementById("restartBtn");
 const errorBox = document.getElementById("errorBox");
+const sectionFilterEl = document.getElementById("sectionFilter");
 
 function shuffle(array) {
   for (let i = array.length - 1; i > 0; i--) {
@@ -23,7 +25,6 @@ function shuffle(array) {
 function showError(message) {
   errorBox.innerHTML = `<div class="error">${message}</div>`;
 }
-
 function clearError() {
   errorBox.innerHTML = "";
 }
@@ -34,19 +35,15 @@ async function loadQuestions() {
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const data = await res.json();
 
-    // Allow either:
-    // A) { "questions": [ ... ] }
-    // B) [ ... ]
     questionBank = Array.isArray(data) ? data : data.questions;
-
     if (!Array.isArray(questionBank) || questionBank.length === 0) {
       throw new Error("No questions found in questions.json");
     }
 
-    // Basic validation
+    // 基本驗證
     for (const q of questionBank) {
       if (!q.q || !Array.isArray(q.options) || q.options.length < 2) {
-        throw new Error("Invalid question format. Check questions.json structure.");
+        throw new Error("Invalid question format in questions.json");
       }
       const correctCount = q.options.filter(o => o.correct === true).length;
       if (correctCount !== 1) {
@@ -61,17 +58,35 @@ async function loadQuestions() {
     showError(
       `Failed to load <code>data/questions.json</code>.<br>
        Error: ${err.message}<br><br>
-       Make sure you're running a local server (not opening file directly).`
+       請用 local server 開啟（不要直接雙擊 html）。`
     );
     console.error(err);
   }
 }
 
+function getFilteredQuestions() {
+  if (currentFilter === "ALL") return questionBank;
+  return questionBank.filter(q => (q.section || "").startsWith(currentFilter));
+}
+
 function startQuiz() {
   clearError();
+  const filtered = getFilteredQuestions();
 
-  // Deep copy
-  quiz = questionBank.map(q => ({
+  if (filtered.length === 0) {
+    quiz = [];
+    index = 0;
+    score = 0;
+    questionTextEl.textContent = "此部分暫時沒有題目。";
+    optionsEl.innerHTML = "";
+    metaEl.textContent = `篩選：${currentFilter} | 0 題`;
+    nextBtn.disabled = true;
+    return;
+  }
+
+  // 深拷貝 + shuffle
+  quiz = filtered.map(q => ({
+    section: q.section || "",
     q: q.q,
     options: q.options.map(o => ({ ...o }))
   }));
@@ -82,7 +97,6 @@ function startQuiz() {
   index = 0;
   score = 0;
   answered = false;
-
   renderQuestion();
 }
 
@@ -94,13 +108,13 @@ function renderQuestion() {
   if (index >= quiz.length) {
     questionTextEl.textContent = "Quiz complete 🎉";
     optionsEl.innerHTML = "";
-    metaEl.textContent = `Final Score: ${score} / ${quiz.length}`;
+    metaEl.textContent = `篩選：${currentFilter} | Final Score: ${score} / ${quiz.length}`;
     return;
   }
 
   const current = quiz[index];
-  metaEl.textContent = `Question ${index + 1} of ${quiz.length} | Score: ${score}`;
-  questionTextEl.textContent = current.q;
+  metaEl.textContent = `篩選：${currentFilter} | 第 ${index + 1} / ${quiz.length} 題 | Score: ${score}`;
+  questionTextEl.textContent = `${current.section ? "【" + current.section + "】" : ""} ${current.q}`;
   optionsEl.innerHTML = "";
 
   current.options.forEach((opt, i) => {
@@ -120,8 +134,7 @@ function handleAnswer(selectedIndex) {
   const buttons = optionsEl.querySelectorAll(".option");
   buttons.forEach(b => (b.disabled = true));
 
-  const selected = current.options[selectedIndex];
-  if (selected.correct) {
+  if (current.options[selectedIndex].correct) {
     buttons[selectedIndex].classList.add("correct");
     feedbackEl.textContent = "✅ Correct!";
     score++;
@@ -132,7 +145,7 @@ function handleAnswer(selectedIndex) {
     feedbackEl.textContent = "❌ Wrong!";
   }
 
-  metaEl.textContent = `Question ${index + 1} of ${quiz.length} | Score: ${score}`;
+  metaEl.textContent = `篩選：${currentFilter} | 第 ${index + 1} / ${quiz.length} 題 | Score: ${score}`;
   nextBtn.disabled = false;
 }
 
@@ -142,5 +155,10 @@ nextBtn.addEventListener("click", () => {
 });
 
 restartBtn.addEventListener("click", startQuiz);
+
+sectionFilterEl.addEventListener("change", (e) => {
+  currentFilter = e.target.value;
+  startQuiz();
+});
 
 loadQuestions();
