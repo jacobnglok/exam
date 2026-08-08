@@ -128,11 +128,6 @@
       const correctCount = options.filter(o => o.correct).length;
       if (correctCount !== 1) continue;
 
-      // dedupe by section + question text
-      const dedupeKey = `${section}|||${qText}`;
-      if (seen.has(dedupeKey)) continue;
-      seen.add(dedupeKey);
-
       cleaned.push({
         id: q.id || makeId(section, qText, i),
         section,
